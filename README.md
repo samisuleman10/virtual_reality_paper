@@ -1,5 +1,4 @@
 # Development and Evaluation of a Test Setup to Investigate Distance Differences in Immersive Virtual Environments
-# virtual_reality_paper
  
 
 https://ieeexplore.ieee.org/abstract/document/9123077
