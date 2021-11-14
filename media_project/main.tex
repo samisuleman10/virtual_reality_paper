@@ -1,0 +1,78 @@
+%\documentclass{thesis} % general english thesis
+\documentclass[twoside]{thesis} % for two pages layout
+%\documentclass{thesis} % for english version
+%\documentclass[coloredheadlines]{thesis} % for colored headlines
+%\documentclass[german]{thesis} % for german version
+
+\author{Muhammad Sami Suleman, Abdul Haq Azeem Paracha}
+
+\course{Media Technology}
+%\course{Medientechnologie}
+
+\title{Development and Evaluation of a System to
+Investigate Distance Differences for Near-Field
+Interaction in Immersive Virtual Environments}
+\thesistype{Media Project}
+%\thesistype{master thesis}
+%\thesistype{Bachelorarbeit}
+%\thesistype{Masterarbeit}
+
+\professor{Prof. Dr.-Ing. Alexander Raake}
+\advisor{M.Sc. Fremerey Stephan}
+
+
+% submission date
+% \year=2013
+% \month=12
+% \day=2
+
+% literatur
+\addbibresource{bibs/literatur.bib}
+
+\begin{document}
+	\setlength{\headsep}{0.4in}
+
+    \maketitle
+
+    % add optional acknowledgments
+ 
+    \pagenumbering{roman}
+
+    
+   \bothabstracts{
+}{   
+    
+Distance perception in a virtual reality scenario is an active research area. It is observed that the user of virtual reality perceive less distance than the actual designed model distance. The significance of this research is to better understand the underlying problems of perception in virtual reality for future work, and to find distance differences for modeling better systems in the future. A primary goal is to develop and evaluate a system to investigate distance difference in near field while interacting with Immersive virtual environment. Multiple scenarios of subjective tests in immersive virtual environment are conducted and virtual scenes are displayed using consumer-grade head-mounted display HTC Vive Pro. The virtual environments are interactive, such that, participants can make verbal estimates and perform actions. There are four scenarios in the virtual environment, verbal distance estimation, blind distance estimation, nested object placement and play area. All of the actions required to perform these tasks were hand reachable. The subjective tests are conducted with participants, for giving an insight into the research question above and to give an estimation on the distance differences in immersive virtual environment. Finally the evaluation is done by subdividing the results in the groups and the simple methods of mean, standard deviation, ANOVA and t-test is applied. The verbal distance estimation in near field shows underestimation in virtual environment. i.e the subjects perceived a shift between virtual environment and real environment. Other tests results showed participants confusion increased and are taking more time to complete the task when the shift between VE and RE was 2cm or more. The findings are significant for future investigation of the research topic and the results can also be used for future corrective modeling of virtual reality systems.}     
+    
+\let\cleardoublepage\clearpage
+   
+    {\small
+    \tableofcontents
+    
+    }
+    \pagenumbering{arabic}
+
+    % include content
+    \include{content/00_exampleUsage}
+
+
+    % include lists, figures, biblio, tables
+    \clearpage
+    \sloppy
+    \printbibliography[heading=bibintoc,title=References]
+    \listoffigures
+    \listoftables
+
+    \appendix
+    \chapter{Supplementry Documents and Questionnaire}
+
+    % add declaration
+    \declaration
+
+    % remove list of todos in final version
+    
+
+\end{document}
+
+
+

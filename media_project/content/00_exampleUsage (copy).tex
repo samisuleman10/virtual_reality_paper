@@ -1,0 +1,429 @@
+\chapter{Introduction}
+%\chapter{Einleitung}
+\label{sec:introduction}
+
+general motivation for your work, context and goals. hello: 1-2 pages
+
+\begin{itemize}
+    \item \textbf{Context:} make sure to link where your work fits in
+    \item \textbf{Problem:} gap in knowledge, too expensive, too slow, a deficiency, superseded technology
+    \item \textbf{Strategy:} the way you will address the problem
+\end{itemize}
+
+
+\section{History}
+\section{Motivation}
+\section{Depth Perception}
+Everyday actions require accurate estimation of the distance to perform tasks like picking, placing or interacting. Space perception enables accurate reaching performance. Before the arm begins to move visual information is used to estimate the surroundings. Reaching an object results in visual and haptic feedback of size, shape, and distance. Scale information is typically accurate within a tolerance of few centimeters even without visual guidance [1]. The tolerance is improved when feedback can be used to calibrate this information. Visual cues like occlusion, accommodation, visual disparity, etc. are also used in distance estimation[2].
+Humans precisely develop a sense of three-dimensional space. How the brain can perceive this is still disputed. Human's depth perception is based on multiple cues to give a three dimensional understanding of the scene. Depth cues include pictorial (such as shading, texture, linear perspective, etc.), oculomotor, moving cues (kinetic depth effect, motion parallax, etc.) and binocular depth cues. Convergence, binocular parallax, accommodation, linear perspective, image size, texture gradient, overlapping, shades, shadows, aerial perspective, and monocular movement parallax are also called psychological depth cues[3].
+Accommodation: The focal length of the lens in eye changes to focus objects at different distances. It is effective within 2 meters distance of the object and it is more effective with other depth cues.
+Convergence: Moving eyes inwards is called convergence. It is effective within a 10-meter distance. Binocular parallax: As our eyes are separated at a distance, the images sensed by the eyes are slightly different. It is the most important depth cue for medium viewing. This depth cue is can give information of depth without the presence of other cues.
+Retinal Image Size: Distance to the object is acquired by comparing real size and sensed the size of the object.
+Linear Perspective: When two parallel lines meet on the horizon it is called linear perspective.
+Texture Gradient: The object with a smooth texture appears far from the object with a detail texture. 
+Overlapping: When objects block each other the object that blocks appears closer to us. Or the object with a continuous outline is felt to lie closer. 
+Aerial Perspective: The dust particles or the water in the air make the object appear hazier and the object appears further way.
+Shades and Shadows: The object shadowing the other object appears closer.
+How these cues are used together to give a certain amount of information for depth perception is still unclear. Some cues appear to give more information than other cues. Additional cues improve the depth information of the human visual system. Anyone cue does not dominate in all scenarios. Different theories are presented for understanding the interaction of cues with one another [4]. The impact of cue dominance also depends on the distance between observer and object. 
+For users to better estimate distances in computer graphics and virtual environments, the focus is on creating scenes closer to the real environment. This means making available all real-world depth cues in digital environments but due to computational limitations depth cues are limited or modified based on assumptions.
+
+
+\section{Virtual Reality}
+Virtual reality (VR) is used to create an imaginary world or simulation of the real world. It is an exciting new medium for investigating difficult-to-study problems under realistic and controlled conditions. A virtual reality system provides a stereo image pair to both eyes. The pictures are produced in the computer system's graphics pipeline and updated in actual time. The images that the participant sees are projections of three-dimensional geometry on two-dimensional displays, with objects colored by computer graphics using lighting models. The rendering shall be determined by the position of the head and the orientation of the participant, which shall be tracked in real time by the tracking system[5].
+There are two types of objects in VE, passive objects and active objects. Passive objects are the wall of the room, chair, etc and active objects might be picked up and moved to another location and the movement of a virtual human. Typically, body and hand are also tracked by devices with 6-degrees-of-freedom tracker with HMD.
+Virtual reality is the medium to create a customized reality. In the last decade, the term virtual reality became popular. It has been discussed in the media and actively researched in industry and academics. Nowadays its applications are widely spread. It is used in games, simulations, pieces of training, experiencing a walk in a dream house and many others. The main advantage of virtual environments is that they provide a controlled scenario so users can repeatedly and safely interact with situations. And its utility has expanded to car design, robot design, medicine, chemistry, biology, education, as well as in building design and construction [6].
+Virtual Reality is an interactive experience in which a person perceives a synthetic environment generated by computer and uses special equipment for viewing the virtual environment. The VR generated by the computer is also manipulated by the user in real time. The person interacts with objects or other persons in that environment as if they were real.[7]
+
+The equipment used for displaying VR is often a head-mounted display, a large projection screen or a computer. The head-mounted display surrounds the user with visual information, allowing them to interact with the VE naturally. Head-mounted displays enable the user to move, observe and interact within the virtual environment. The main difference between the traditional media and VR is the three-dimensionality of VR. Which gives the feeling of interactivity, presence, and immersion. 
+Virtual worlds, synthetic environment or the artificial world. All these names mean virtual reality. All these are 3-dimensional models that give user immersion and direct manipulation of their environment. [8]
+Human-computer interactions: refers to the process by which humans interact with computers. 
+Haptics refers to the capability to sense a natural or synthetic mechanical environment through touch. It provides force feedback to users about the physical properties and movements of virtual objects represented by a computer. Haptics includes touch and motion elements. Haptic simulate weight, momentum, friction, texture, or resistance through interfaces and let users “feel” what is happening on the screen.
+Immersive VR systems must be interpreted similarly to the real world. VR systems must provide cues to accurately perceive the spatial information in a virtual environment.
+The spatial geometry and depth perception is derived from the integration of several visual and non-visual cues. For immersive virtual environments, many experiments have been done within VR environments to investigate presence and immersion. Subjects felt a difference between the real and virtual environments.[9][10] One can say that there are uncertainties or unknown in VR-based depth perception. Understanding VR depth cues in virtual contexts will allow a realistic perception of distances. Studies have been conducted and research has been made to have all these depth cues available in VR.   
+Stereoscopic equipment like glasses and head-mounted displays helps in giving depth information in VE. 
+Conveying depth information in a virtual environment is done using a wide variety of real-world cues. To focus on objects at various depths vergence angle is adjusted by changing the direction of the display lens. The cues available in VE are not realistic and are different from the real environment. Viewers learn to adapt to the new environment and adjust to their viewing conditions.[5] While computational systems simplify the process of generating VE, it is uncertain how this affects the users.
+
+
+\section{Real and Virtual Environment}
+In the real world, people are often called upon to move toward an objective, and therefore they must plan their movements. Real world environment can be perceived with spatial knowledge of the environment, which may be in the form of a physical or a mental cognitive map. Space perception focuses on the relative contributions of different sources of information shape, distance, and size. Successful navigation needs encoding and recalling spatial indications from one's environment. Visual-based spatial indications can be widely classified either as geometric or feature based. Both geometric and featural cues can be used to form a long-lasting perception of the environment[11]. Studies have documented the processes in which the real world environments are represented and showed that different levels of spatial knowledge are developed and required to accomplish the work required.[12] 
+
+In a virtual environment or world you can use your eyes, ears, and hands as you do in the real world. Move your head towards your viewpoint, listen to directional sound and reach your hands to capture virtual objects and manipulate them. The technology of virtual worlds provides a better understanding of three-dimensional forms and spaces through perceptual phenomena such as head-motion parallax, stereopsis, and kinetic depth. Since we do not completely know how to immerse a user within an application, therefore, precise interaction is difficult in VE. In VE, different methods are available to interact. Like, direct user interaction, it depends upon natural mapping between user action and the resulting action in the VE. It includes the use of hand tracking, gesture recognition, pointing, etc. Physical controls are also used in VE. This includes joysticks, controllers, steering wheels, etc.[13] Physical controls are ideal to manage an interaction job precisely and can increase a user's sense of presence in the virtual environment. Physical devices also have the drawback that they can be difficult to locate while wearing a head-mounted display and a lack of haptic feedback and the general difficulty of interacting with a virtual object. As a natural way of interacting with computer virtual environments have shown considerable promise. The advantage of VE is the possibility it gives to create environments of varying complexity and control spatial parameters. Immersive virtual environments (IVE) technology has enormous promise as a tool for facilitating the process of enabling users to experience a 3D model of a virtual environment before it is built. However, there are several disadvantages to the current state of the art technology: a lack of realistic ambient modeling, slow generation of images and rendering, small field of view, optical distortions, poor spatial resolution.[14]
+However, due to the large variability of situations and tasks, it is difficult to know exactly what type of information is transferred and the nature of the underlying cognitive processes.
+Virtual environments contain much of the essential spatial information that is utilized by people in real environments.
+
+
+\section{Presence}
+ The complexity of the physical world is full of layered information. Each of the layers presents extensive details: Imagine the dynamics of a human smile, if the expression is disintegrated into physical movements of each muscle including hairs and skin changes, it is extremely hard to comprehend. If we add haptics (force feedback and touch) and generation of sound the problem will be more complex. To generate this complex behavior is not possible, even if it is possible it might not be feasible because of time, resources. Another issue can be the replication of dynamic changes in the environment in real-time. For some applications, it is possible to replicate haptics and there are two approaches to do it. In the first approach, the user haptics is limited to the end of an instrument[15][16]. This instrument is also present in the virtual environment and the user can feel if some virtual object creates friction or collides with the instrument. In the second approach, the user body is tied to an exo-skeleton, any impact of an object in the Virtual world is translated mechanically by exoskeleton to the user[17]. The weight sensation can also be translated to the human body in this way. The factors mentioned above contribute to the level of immersion a user can feel. It is the technical capability of the system to provide surrounding experience, through which the user interacts. 
+
+
+\subsection{Presence in Virtual Reality}
+Virtual reality is a technology which provides a unique way of interaction and it immerses human senses. This technology is different from other ways of media access for example television or books. Presence here will only be explained in-terms virtual reality although the term can be applied to non-media applications.
+
+ There are many definitions and theories which explain the term but we will discuss only conspicuous ones. Presence as a term is used in many fields of research. Matthew Lombard and Theresa Ditton [18] established six different analysis of presence which is used in literature, presence as social richness; the level up till which the medium is warm, sociable, sensitive and personal in terms of interaction with other people, realism; the level till which medium is socially realistic, transportation; the sensation of being there, immersion; the level to which senses are occupied by the environment, social actor within medium;the level of a person’s social depiction via medium and medium as a social actor; the level of medium to be perceived as social actor(computer perceived as social entities). But the presence in virtual reality discussed in the literature is mostly described in the meaning of presence in transportation. Subjects are considered “present” in virtual reality when they report themselves to be present in the virtual world. Another term social presence and co-presence is mostly used for sense togetherness in the virtual world (being together). Sheridan [19] make another remark. He distinguishes between presence, being in the computer-generated world and telepresence, sense of being present at a real remote location. Slater [20] differentiate between two types of presence. Subjective presence, the personal judgment of himself being present in the virtual environment. Objective presence, the level of the task completed as discussed.
+The parameters which are important for immersion are latency (time between system response and event initiation), the frame-rate, tracker range, number of trackers, the field of view, quantity of sensory system that can be simulated, and the quality of rendering within each sensors mode. One of the important things here is proprioception – for example, if a person moves his head how accurately and fast the system responses and displays relevant auditory and visual information.[21] In an HMD (head-mounted display) system (FIG. 1) which conceals all the real world view, egocentric point of view becomes important. Immersion is considered an objective property which can be measured independent of human experience. Presence is a directly human response to the system and its meaning can be explained in many ways.
+
+
+\subsection{Presence to Conciousness}
+  Based on the concept of presence some measure is required for using it in virtual reality applications. Using this measure computational resources are allocated towards tracking and display within technical and economic constraints. One approach could be application-specific where resources are allocated optimally. An example of such a scenario can be to train a surgeon through virtual reality. If the skill is transferred successfully with certain quality then the resources are optimal. Another approach is to measure the efficacy of virtual reality system through the idea of presence. The measurement of presence is a challenging task for researches till now. One way of doing it is to ask participants to perform a certain task in the virtual environment. After completion of the task participant will fill a questionnaire. The questionnaire will ask participants to grade their level of presence in the virtual environment. Behavior analysis is another way of measuring presence. For example, if the subject in virtual environment behaves as if he or she is in reality then it will be considered a high level of presence. To achieve this kind of measure special application is made to introduce bodily response from the subject based on changes in the virtual environment. For example an application of flying object above the head which might make the subject to duck in the real environment. An interesting view of presence is “...tantamount to successfully supported action in the environment”[22]. This approach arguments that reality is created through actions contrary to mental filters. The main approach to achieve the sense of “being there” is to “do” there. It is being observed that to implement this idea a close match between sensory data and kinaesthetic proprioception is required. The graphics frame rate is directly proportional to the reported presence. And the minimum frame-rate is 15 – 17 Hz. This value has been confirmed by a study [23] where the heart rate of the subject was observed with changes in the frame-rate. It was also observed in the study that low latency between head movement and display update increased the heart rate. Apart from this geometric field of view, head tracking, and stereopsis is also effecting the presence. Interestingly there is not much evidence available that visual realism effects the presence, although some driving simulators have shown the effect on the presence. An important factor which affects the behavioral presence is shadows, dynamic shadows have better results in comparison to static or no shadows. It is not directly related to visual realism but display dynamics [22].
+
+
+\section{Immersion}
+Immersion is determined by subjects reaction and perception to the virtual reality system [24]. Immersion can also be defined as the capability of computer displays the ability to deliver an illusion of reality to the senses of the subject [25]. Virtual reality is computer generated sensory imitation supplied to human senses. The quality and type of these imitations define the immersion level for the subject. The ideal condition for a system to deliver is the use of high quality and high-resolution information. Furthermore, the system should react to user action realistically. The non-immersive desktop system offers virtual reality with a low level of immersion, but it can be set up easily without any complexity. Its is also called WoW (window on the world) systems. In this system, the subject views a virtual environment through one or more computer screens. It can interact with the virtual world but not immersed in it. Semi immersed (Fish Tank VR) is an improved version of desktop Virtual reality system. These systems also support head tracking and improve the feeling of presence because of the motion parallax effect. They use the same displays as for desktop system with sometimes shutter glasses to produce a 3d effect. Immersive systems make use of head-mounted displays and support a high degree of stereoscopic view. The system works with users orientation, position and to improve immersion, it also sometimes employs audio and haptic effects through additional sensors.
+
+\subsection{Types of Immersion}
+Following are the immersion types, tactical immersion, strategic immersion, spatial immersion, physiological immersion, sensory immersion, and narrative immersion. Tactical immersion is felt while performing operations that involve skills. Strategic immersion is more related to mental challenge and is cerebral. Narrative immersion takes place when the subject is involved in a storyline. It is a similar situation which people experience while watching a movie or reading a book. Spatial immersion happens when a subject feels its surroundings realistic. Psychological immersion is felt when the subject starts feeling virtual world realistic. Sensory immersion occurs when subject fuses with the graphic virtual world and it starts impacting its awareness and impression.[26]
+
+\subsection{Characteristics of Immersion}
+The characteristics of immersive virtual reality are as follows. Head reference capabilities provide interface for navigation in three-dimension interface for looking around, fly through and walk around capabilities. The stereoscopic view allows depth perception. The interaction with virtual objects through tracking sensors provides realistic manipulation, control, and operation of the virtual world. The complete illusion and sense of immersion can further be enhanced via audio, and haptic sensors.
+
+
+\section{Problems in Virtual Environment}
+Although the development of interactive graphics and complex technologies provide the illusion of the real world, the ability to live up to the physical world is very much in debate. One of the challenges is the inclusion of multiple users. Despite numerous advances, the development of a collaborative virtual space remains unconvincing. In particular haptic, tactile and olfactory interfaces are still absent. Capturing real-time movements and expressions lag far behind in VE. Even if we can imagine a technology that mimics a realistic virtual world, there will remain challenges. One of the fundamental challenges is network delay. Translating real time movement in VE by using sensors and processing the information causes the delay [27]. An individual’s feeling of presence is critical in VE. Similarly, multiple users standing next to each other in VE but they are physically located in different locations will cause delays of at least milliseconds between them. And the delay will increase with hardware limitations. This will cause slow interaction between users working in a collaborative environment and risk for being indifferent to virtual environments. Other technical problems associated with action and interaction through virtual environments are field-of-view and haptic feedback.[28] 
+Field of view (FOV) in humans and display technologies are limited. Humans have wide FOV.  Head-mounted displays are most frequently associated with virtual environments their FOV is a physical characteristic of the headset. Usually, they provide limited horizontal space in which to render a user’s view of the virtual world and often limited under 60 degrees. This space limitation means causing perspective distortions.[29] 
+Haptic feedback is the sense of physical force and touch. There is increasing research on how to provide users with haptic and tactile feedback. Touch is key for producing haptic feedback in VR systems. Research is often focussed around force feedback in the graphical system. In an evaluation of a study based on physically touching virtual objects using tactile augmentation enhances the realism of virtual environments [30]. Producing the exact texture of objects in the virtual world is difficult. Haptic interfaces are still in the development stage and far from realistic experience. 
+Network delays are delays in the transmission of data. Any system that uses a network has to deal with the reality of delays in network communication. but can disrupt the very practices upon which face-to-face interaction rests. when considering audio video-based communications it was found that delays in transmission are disruptive [31]. These network delays have an equally disruptive organization in virtual environments. Complex graphics and media in virtual reality require high bandwidth. If users are situated in different geographical locations problems will be caused by network delays, resulting in problems in interaction. A study [32] has investigated how network delay affects users’ behavior. There were misunderstandings between the two players, users reacted differently, they could not agree on statements regarding space and time relationships between events and objects. In this case of increasing inconsistency caused by delay, it seems that trust can be lost in the system by the user.
+
+
+\subsection{Motion Sickness}
+Almost every traveler is familiar with motion sickness it is a well-known nuisance when traveling on train or airplane. These displeasing feelings cause nausea, vomiting, headache or pallor. As the virtual technologies progressed head-mounted displays continue to grow for viewing virtual environments. HMD is used in simulations and entertainment. Scenarios can be rehearsed or simulated in VE without the danger of repercussions in the real world. However, HMDs are imperfect and drawbacks exist that may outweigh the benefits of HMDs. One such drawback is the experience of simulator sickness (SS). Motion sickness is not limited to real body movement. Symptoms like motion sickness can occur in virtual environments as simulator sickness (SS). It is known that SS can lead to detriments in user acceptance, performance, and safety. [33]. One possible cause of SS is the sensory conflict theory [34]. Visually induced MS is believed to be caused by a visual-vestibular conflict: Vision shows self-movement while vestibular organs are stationary. Visual, vestibular, and proprioceptive organs permanently transmit current body position and movements to the central nervous system. Thus, if any of these channels are at variance or even incompatible within each other, MS may occur. Given the prospective utility of HMD VEs, the features of SS need to be examined and identified. Several features have been examined in VE earlier like the field of view, network delay and image scale factor for SS. Delay was described as the latency between head motion and the rendering of that head movement's visual result. 
+An HMD's FOV display is limited by the physical size of the display. Wider FOV in HMD provides more realism and immersion in VEs. However, the horizontal display FOV of most HMDs is between 30° and 75° and of humans is between 180° and 200°. [35]. Hence, the interaction of delay and FOV is of interest for SS. Although the relationship between delay and SS is unclear. It has been discovered that immersive HMD VEs are more sickening than less immersive desktop PC VEs [36]. Visual information is also provided by the natural external environment, potentially ameliorating any detrimental effects of display characteristics. Exposure duration is a widely accepted and consistent finding in SS research, SS increase as time spent performing tasks in VE increase, regardless of condition. [37]. In recent years, several questionnaires have been released with the aim of delivering a credible MS severity measurement.
+Motion Sickness Assessment Questionnaire measure multiple dimensions of MS. The Motion Sickness Assessment Questionnaire can be applied to several types of motion sickness, including MS in the presence or absence of true motion. The Simulator Sickness Questionnaire (SSQ) is a more particular instrument for evaluating visually induced MS. Because the SS experience differs in the presence of real movement compared to classical MS, there are also some differences in the SSQ symptom list.
+The SSQ is an important simulator, cyber, or virtual reality sickness questionnaire.
+The SSQ contains 16 items, which have to be rated by the participants. They are divided into three subscales: Disorientation, nausea, and Oculomotor Issues. 
+The issues are rated with the scale from 1 to 5. 1 means the issue does not exist and 5 means the issue is severe. Through some calculations, four representative scores can be found. Based on the ratings SSQ score is calculated, the total score is the score representing the overall severity of cybersickness experienced by the users of virtual reality systems.
+
+
+
+\subsection{Figures}
+
+Figure~\ref{fig:ex1} shows something.
+
+\begin{figure}
+    \centering
+    \missingfigure{missing figure}
+    \caption{Example Figure}
+    \label{fig:ex1}
+\end{figure}
+
+\begin{figure}
+    \begin{center}
+        \begin{tikzpicture}
+            \tikzstyle{every entity}=[fill=blue!20,draw=blue,thick]
+            \tikzstyle{every relationship}=[fill=orange!20,draw=orange,thick,aspect=1.5]
+
+            \node[entity] (sheep) at (0,0) {Sheep};
+            \node[entity] (genome) at (4,0) {Genome};
+            \node[relationship] at (2,1.5) {has}
+                edge (sheep)
+                edge (genome);
+            \draw[->] (sheep) -- (genome);
+        \end{tikzpicture}
+    \end{center}
+    \caption{Tikz Example}
+    \label{pic:ex2}
+\end{figure}
+You can also use tikz for your figures, see Figure~\ref{pic:ex2}.
+However other tools, like \url{https://www.yworks.com/products/yed} are more suitable.
+
+\subsection{Tables}
+
+Short tables, e.g., Table~\ref{tab:shorttable} are straighforward to define.
+
+\begin{table}
+    \centering
+    \begin{tabular}{llr}
+        \toprule
+        left aligned & same here & right aligned \\
+        \midrule
+        1 & 2 & 3 \\
+        4 & 5 & 6 \\
+        7 & 8 & 9 \\
+        \bottomrule
+    \end{tabular}
+    \caption{Short table}
+    \label{tab:shorttable}
+\end{table}
+
+Multi-line cells can be set as shown in Table~\ref{tab:SensorNetworkApplications}.
+
+\begin{table}
+    \centering
+    \begin{tabular}{>{\raggedright}p{1.8cm}p{5.4cm}p{3.4cm}}
+        \toprule
+        Class & application examples & lifetime aspects \\
+        \midrule
+        Critical, coverage &
+                Forest fire detection, flood detection, nuclear/chemical/biological attack detection, battlefield surveillance, intrusion detection &
+                $c_{ca}$/$c_{ct}$/$c_{cb}$, $c_{ln}$, $c_{la}$, $c_{lo}$\\
+        Critical, no coverage &
+                Monitoring human physiological data, military monitoring of friendly forces, machine monitoring &
+                $c_{cc}$, $c_{ln}$, $c_{la}$, $c_{lo}$ \\
+        Noncritical, coverage &
+                Agriculture, smart buildings, habitat monitoring (sensors monitor the inhabitants in a region) &
+                $c_{ac}$/$c_{tc}$/$c_{bc}$, $c_{cc}$, $c_{sd}$ \\
+        Noncritical, no coverage &
+                Home automation, habitat monitoring (sensors are attached to animals and monitor their health and social contacts) &
+                $c_{cc}$, $c_{sd}$ \\
+        \bottomrule
+    \end{tabular}
+    \caption{Sensor network applications}
+    \label{tab:SensorNetworkApplications}
+\end{table}
+
+
+\subsection{Math}
+
+Simple inlined equations: $\zeta(t) = \min( \zeta_{**}(t))$.
+The same in a numbered equation, i.e.\ Eq.~\ref{eq:zeta}, which states
+\begin{equation}
+\zeta(t) =
+    \min\left(
+        \zeta_{**}(t)
+    \right)
+\label{eq:zeta}
+.
+\end{equation}
+
+\begin{equation}
+    e = m \cdot c^2
+    \label{eq:ex1}
+\end{equation}
+
+
+\[ v = \frac{s}{t} \]
+
+\begin{equation}
+    \ln(e) + \sin^2(p) + \cos^2 (p) = \sum_{n=0}^{\infty} \left(\frac{1}{2}\right)^n
+    \label{eq:ex2}
+\end{equation}
+
+
+Equations covering multiple lines should be aligned. Note that the numbering is added automatically, independent of whether the equation is actually referenced or not, as in
+\begin{align}
+sd_{max} &=
+    \max\left(
+        (t_{i+1} - t_i)
+            : \zeta(t_i) < 1, i \in [0, |T|-1]
+    \right)
+,\\
+\psi_{sd}(t) &=
+    \begin{cases}
+        \dfrac{\Delta t_{sd}}{sd_{max}}
+            & \text{if $sd_{max} > 0$}, \\
+        1
+            & \text{if $sd_{max} = 0$},
+    \end{cases}
+\\
+\zeta_{sd}(t) &=
+    \frac{
+        \psi_{sd} - cl_{sd}
+    }{
+        c_{sd} - cl_{sd}
+    }
+.
+\end{align}
+
+
+\subsection{Algorithms}
+Algorithm~\ref{algo:test} is an example algorithm.
+
+\begin{algorithm}[H]
+    \KwData{this text}
+    \KwResult{how to write algorithm with \LaTeX2e }
+    initialization\;
+    \While{not at end of this document}{
+        read current\;
+        \eIf{understand}{
+            go to next section\;
+            current section becomes this one\;
+        }{
+            go back to the beginning of current section\;
+        }
+    }
+    \caption{How to write algorithms}
+    \label{algo:test}
+\end{algorithm}
+
+\subsection{Program Code}
+
+Program code should be omitted, but if absolutely necessary, it should be set as seen in Listing~\ref{lst:code}.
+
+\begin{lstlisting}[caption=Sample application,label=lst:code]{}
+#include <iostream>
+int main() {
+    std::cout << "Hello world" << std::endl;
+    return 0;
+}
+
+\end{lstlisting}
+
+
+\subsection{References}
+
+You can cite something with~\cite{Berlin}.
+Or~\citeauthor{raake2014quality} for Authors~\cite{raake2014quality}.
+Or~\cite{coresparql}. Or \cite[p 1]{sparqlAlgebra}
+
+For bibtex entries you can use different sources, e.g.,
+\begin{itemize}
+    \item \url{http://scholar.google.de/}
+    \item \url{http://books.google.de}
+    \item \url{http://citeseerx.ist.psu.edu}
+    \item \url{http://ieeexplore.ieee.org/}
+    \item \url{http://dblp.uni-trier.de/}
+\end{itemize}
+
+\subsection{TODOs and FIXMEs}
+
+You can use the the \verb|\todoI| command to add short ``sticky notes'' to your document.
+\todoI{This is what a TODO looks like}
+This will also trigger generation of a list-of-TODOs at the end of the document.
+The same goes for the \verb|\note|\note{This is what a NOTE looks like} command.
+
+
+
+
+\chapter{Fundamentals}
+\label{sec:fundamentals}
+
+\section{Problem Specific Definations}
+\subsection{Immersive Virtual Enviroment}
+Virtual environment and virtual reality are the two terms used interchangeably. The immersion of the subject in the artificial computer-generated environment, which is simulating a real-world environment is called an immersive virtual environment [38].
+
+
+\subsection{Distance Compression}
+Distance perception in the virtual environment is compressed: the objects are invariably perceived closer with respect to their original place. The phenomena are sometimes called as distance compression [39].
+
+
+\subsection{Egocentric Distance}
+The subjective distance perceived to the user (human observer) from a reference point to the object in the virtual environment is called as an egocentric distance [40].
+
+\section{Problem Statement}
+This study is carried out to investigate the problem of perceptual distance estimation by human subjects in an immersive virtual environment. Research is going on for the last many years to answer the distance compression problem in the virtual environment. A lot of research is done to find out, far-field and near field distance compression which humans perceive. In this study, we have developed a test system to answer three key questions.
+\begin{itemize}
+    \item What is the perceptual distance difference present between an object in the real and virtual world when seen through IVE?
+    \item What is the noticeable distance difference in interaction with an object present in the real world and also in the virtual world?
+    \item What is the shift between real and virtual world object when seeing through immersive virtual environments?
+\end{itemize}
+
+\section{Distance Difference}
+Many recent studies have reported the perceived distance perception in immersive virtual environments has evidence of a marked compression of egocentric distance presented via head-mounted display systems relative to distance perception in the real world.[41]
+When the virtual environment is viewed through head-mounted display objects have been consistently underestimated. It has been shown that the same distance decisions in the physical world are quite precise. The exact reason for this disparity and compression of space in a virtual environment is unknown. To investigate the cause of this perceived compression of distance. There are a few probable causes in VE for the perceived compression of space either underestimation of distance originates from the display system information or the scene’s rendering.
+Almost all of the research to date comparing distance perception in immersive virtual environments with distance perception in the real world [41][42] have observed distances are perceived as being compressed in virtual environments. In general, estimates of egocentric distances can be underestimated by as much as 50% [43]. Users consistently underestimate distances between them and objects in VE. They find it difficult to provide accurate distance estimates while wearing HMDs. [44]. 
+Perceptual variability of such magnitude may pose severe issues for systems where the precise perception of size and distance is presumed and is likely to be critical. Even though significant attempts have been made to define the sources of these impacts. Studies investigated the limited field of view in a head-mounted display as compared to the real world, and the graphical quality of the virtual environment may account for some of the apparent compression observed [45].
+In VE the user is physically not present in the environment. There is a dissociation between the virtual world that they are seeing and the real world that they are occupying. This increases the likelihood that in the cognitive interpretation of the visual stimulus, the distance compression issue may have some of its origins. If the respondents do not think that the two surroundings are the same, their assessment will lead in the absence of presence.[41]
+Studies have used different methods to assess a person's perception of distance. One of the simplest approaches is to make verbal estimates of the distance. The user immersed in the VE makes an estimate of the distance between himself and a target location in VE. [46]
+The other most commonly used metric for assessing egocentric distance perception is blind walking. In blind walking, each trial began with the participant viewing the target for approximately 5 sec and then making a verbal report of distance. While viewing the target participants have the freedom to move their head and eye. After viewing the target vision is occluded by closing eyes or lowering the visor, and participants began blind-walking toward the same target and stop when they believed they had reached it. [41]
+Another action based metric is triangulated walking [47], In these studies, participants first construct a visually-based representation of an environment, and then walk without vision, either in a direct path or an indirect path toward the perceived location of some object in the environment. As participants walk without vision, they are told to focus on how their internal, mental representation of the space updates based on their movement. Results from these studies, conducted in real-world indoor and outdoor spaces under full cue conditions, show that people are accurate at judging distances to targets to about 25 meters. [48]. 
+It is observed participants subconsciously hesitate to confidently walk in fear of bumping into an obstacle. So another test which has been used to investigate distance compression and does not require participants to move is blind throwing [49]. The participant is first shown the target in the real world. Then they are instructed to close their eyes and throw an object in their hand to the target So that it landed on top of the target. The experimenter would check the location of the landed object. And compare it with the target location.
+Time imagined to walk asks respondents to judge how much time it would take to reach the goal. To transform this into a distance, participants individually measured average walking speed is calculated.[50]
+Underestimation has been shown in most of these trials as the distance increases. Distance estimation in VE has been widely studied in action space 
+
+\section{Distance Difference in Near Field}
+Little research has been conducted to examine distance estimates in near-field distances in virtual environments. Comparison of IVE and real-world viewing conditions with both verbal and physical reach responses, and found distance compression when estimates were made to action field. Distance estimation can be divided into three different regions: personal space, is the distance from 0m to 1.5m slightly beyond arms’ reach, action space extends to 30m, and far-field is greater than 30m. [51] 
+Recent research on egocentric distance estimation is focused on action space and less on personal space. The conditions used to test distance perception in action space were verbal estimation, imagined timed walking and blind walking in the action field. Some of these conditions are not implementable in the near field due to space constraints. For example, blind walking requires some space for walking. One of the studies to Investigate physical arm reaches in egocentric distance [52] participants used an HMD to view a luminous disk that was floating in black space in the RW. Participants were told to look at a goal from 50 percent to 90 percent of their arms reach, close their eyes, and then use a stylus to create a physical reach to where they perceived the target.
+
+
+\section{High fidelity IVE}
+Studies show that when there is high fidelity in the real and virtual world it affects egocentric distance estimation [41]. It is possible to imagine that when we view an environment via HMD, we might not be fully immersed because of the difference in the real and virtual environment. If both the worlds are similar users can confidently accept as being in a faithful representation of their actual, occupied space. To disentangle the potential effects of higher-level cognitive influences on distance judgments when the virtual world is replicated from the physical world is of interest for distance perception. It is observed in previous studies that Reaches generally tended to be more accurate and more consistent [53].
+
+
+\section{Order of Real and Virtual world}
+Studies have been made to investigate the impact of real and virtual environment order for distance estimation. Participants made estimates either in the real or virtual environment first. The study was conducted to further investigate how the order in which people make judgments in real and virtual environments influences their verbal distance and time-to-walk estimates. “Participants made two sets of estimates in one of the following conditions: 1) real environment first, virtual environment second; 2) virtual environment first, real environment second; 3) real environment first, real environment second; or 4) virtual environment first, virtual environment second.” [54]. The result of the estimates was the same when people made it first in a real environment. But when the estimates were first made in virtual environment estimates were significantly shorter. This suggests that experience with making distance judgments in the real environment first leads to improvements in distance judgments in the virtual environment. 
+
+
+\chapter{Implementation}
+\label{sec:Implementation}
+Our study examines the quality of depth perception and distance differences in virtual personal space. It includes examining egocentric distance estimation in personal space using two viewing conditions: RW and IVE, and two response methods: verbal reports and physical reaches. Our study investigates that virtual environments with a limited number of depth cues can provide accurate depth perception and what is the minimum distance difference noticeable in the near field by the user wearing an HMD. Our experiment was carried out in a closed environment and the participants were benefited from a metric aid and additional cues for their reference. Also, the influence of motion sickness was examined after every session of the virtual test condition. To make the user feel physically present in the virtual world during the experiment, the two environments real and virtual were made similar. If the virtual environment represents a space that does not correspond to the real surroundings it may result in a lack of presence and it might have some effect on the participants' interpretation of the distances they are perceiving. 
+ 
+
+\section{Software and Hardware}
+The VR equipment used in the experiment consisted of a head-mounted display (HMD) and a position and orientation tracking system. The equipment has long been very expensive for VR placing it out of reach for many people. Recently, VR technology is starting to become available in the consumer market. The popular products that exist are the Oculus series and the HTC Vive sires. They are designed to track an observer who freely moves through a space of up to 4x4m. As a complete HMD for orientation and position tracking this equipment will enable a larger number of researchers to access VR technology and study this technology in unconstrained environments. The latency between the physical movement of the headset and the corresponding update of the Vive’s display needs to be sufficiently low to make VE stable and to prevent motion sickness.
+The system we used for running our rendering software consisted of a Dell Precision workstation with a quad-core processor and dual NVIDIA Quadro FX .... graphics cards. The system that rendered the IVE condition in HMD ran the tracking system, and measured the perceived physical reaches in the real and virtual environment was Unity 3D software. 
+ 
+
+\subsection{HTC Vive Pro technical details}
+Virtual scenes were displayed using HTC vive pro-consumer-grade head-mounted display (HMD). According to manufacturer specifications, the HMD display characteristics are Dual AMOLED 3.5” screen with 2880x1600 resolutions and 90Hz refresh rates, and a 110-degree field of view. The weight of the headset is 470g. The HMD also has high impedance headphone support. It also has steam VR tracking, G-sensor, gyroscope, proximity sensor. Rendering for HMD was provided through the Unity game engine, using OpenVR. Positional tracking was provided using two lighthouses. The vive lighthouses provided tracking for two handheld controllers and one motion controller. Participants used these motion controllers to perform tasks during the experiment. For a more comfortable experience in the virtual environment, the HMD comes with adjustable lens distance, interpupillary distance, and headphones. 
+The Vive Pro has a headset, two controllers with infrared laser emitter units. The Vive’s tracking technology uses two laser emitters, called Lighthouses. These two boxes alternatingly send out horizontal and vertical infrared laser sweeps spanning 120 degrees in each direction. 
+Vive’s headset and the controllers have photodiodes on its surface. The difference in time when the laser strikes these photodiodes allows recovery of the position and orientation of the headset. Nonetheless, when the view of lighthouses is blocked the Vive reports varying position and orientation values. 
+After installing the two lighthouse units, the system is calibrated by using vive’s software package. During this procedure, the two vive controllers are placed on the floor in the center of the track space to calibrate where the floor is and how it is oriented. Furthermore, the ‘‘play area’’ is set up using the vive controllers. We used HTC vive pro for our research, our subjective experience with vive indicates that the tracking of the system appears stable and fast.
+However, low offsets were observed in position and orientation in the tracking space and the precision in virtual space. In one of the studies that quantitatively examined the performance of the Vive’s position and orientation tracking output, as well as its end-to-end system latency from physical movement to display update concluded that because of the “varying offset between the virtual and the physical tracking space makes the HTC Vive at present unsuitable for scientific experiments”[HTC vive research]. It may, however, be suited for other experiments that do not have this require accurate visual simulation.
+
+
+\subsection{Software}
+Unity is a multi-platform game engine for creating interactive 3D content. This provides an intuitive interface while at the same time providing developers with low-level access.        To quickly create immersive experiences, assets store of unity can be used which has thousands of resources generated by other content creators. Real-time viewing of the entire scene and autonomous navigation, multi-angle tracking gives user better viewing experience.
+In combination with Unity, consumer-level virtual-reality hardware has recently helped professionals, and researchers to quickly develop applications for virtual reality.  
+Since Unity is designed around the notion of user interactions in immersive 3D spaces, this approach directly enables visualization and exploration of our research in distance differences in IVE, Unity has the advantage of efficient rendering of 3D data. Thus, we are using which is now emerging as a dominant immersive VR platform for professional activities. The software development kits and plugins also allow us to develop additional functionalities that are not easily doable on another platform. Unity based visualizers already support the HTC vive pro as a display device, which greatly enhances the sense of immersion in the virtual environment. In Unity, the user can also use physical gestures by using controllers to manipulate virtual objects. 
+We designed and implemented our test sessions, written in Unity 3D, to allow for visualization of the virtual environment, when using the HMD. For consistency, with the real world, we created a scene with scales similar in the real world. Using Unity 3D enabled several visual improvements. The graphical expression of the virtual objects became more precise by using Unity’s built-in shaders and built in the physics engine. As a result, the virtual 3D model appearance looks more realistic.
+
+
+\section{Problems with setup}
+\subsection{Lighting}
+Due to the significance of shadowing in the experiment to provide correct depth perception to the subject, it was important to select the best possible setup for lighting. For the purpose area lighting feature was used which is a possible alternative for indoor lighting in unity 3d. Unity provided only two options to set up area lighting, intensity, and indirect multiplier. In our case of area light source, there are only two options either to cast a shadow or disable the feature. The problem is that the unity cast shadow feature for area light is not exactly as in the real scenario. Another problem we faced was that for some scenario in our test condition tracking of the object was required, which means we wanted dynamic shadowing effect but the feature is not available for area lighting. Due to this reason, we had to add some directional source of lighting as well which slightly deteriorated the performance.    
+
+\subsection{Unity 3d Limition}
+Unity is a game engine and an excellent platform for simulation. But we face some limitations concerning our needs, for conducting tests immersive virtual environment. Unity can not be used as a tool to fit all the needs, its 3d object designing pose a real challenge in terms of effort and time. For example to design a 3d curtain it was far easier to render in the blender rather than in unity. Apart from that unity’s real-time lighting and shadowing has also limitations. In our case, we had to introduce directional lighting in addition to area lighting to improve the shadowing effect. The reason behind this workaround was that unity is not supporting area lighting in a real-time scene. It is doing precalculation for lighting and is only available for static objects.   
+
+\subsection{Accuracy and Precision of HTC Vive Pro}
+HTC vive is a motion capture headset system with virtual reality systems. By motion capture, it meant a system that measures an absolute orientation and position in real-time. It has many applications in robotics, engineering, entertainment, and medicine industries. The system includes lighthouses emit light pulses received by the headset and hand trackers to accurately find vertical and horizontal angles at a given time. The analysis is done by [55][56] of vive ‘s dynamic accuracy and static accuracy and precision. The findings show that the original system has millimeter precision in the static state while in the dynamic state the precision is deteriorated hugely. It is also shown that the precision of the dynamic system is changing from millimeters to meters.  It is worth mentioning here that this study required to replicate the real-world environment accurately concerning the position of real objects in the virtual world. But the problems faced were that every time the system started, its position coordinates did not match with the real object positions. Although the openvr tool used with the system provided calibration options for the hardware but with every start of the system via unity provided different coordinates positions for the objects in the virtual environment. The problem was solved by repositioning the virtual objects according to real objects for every start of the system.    
+
+\section{Unity Lighting}
+\subsection{Point Light}
+A point light is the one which spreads light in all directions and it is located at a certain point in space. It sends out light equally in all directions. The intensity of point light is inversely proportional to the square of the distance from the source.
+
+\subsection{Spot Light}
+Spotlights are angular lights and it corresponds to real-life spotlights. It is a directional light that spreads in a cone shape.
+
+\subsection{Directional Light}
+Directional lights have the same behaviors as the sun and simulate sunlight in unity scenes. This kind of light does not diminish, so it does not matter how far is the light from the scene.
+
+\subsection{Area Light}
+Area lights are emitted from rectangular space. They are emitted in all directions from one side of the rectangle. This kind of light works on the same principle that diminishes inverse square distance from the source. Interior house lighting, it gives a more realistic view.
+
+\subsection{Ambient Light}
+Ambient light is present all around the space, it is not coming from any source.
+
+\subsection{Shadows}
+Lights used in unity also offer to shadow effect. It is the most important aspect of our test scenario. For the creation of an immersive environment, it is necessary to improve the shadowing effect which may help the subjects in-depth perception.
+
+
+\section{Methodology}
+The experiments to answer our key questions were carried out in TU Ilmenau Media Lab 2. One of the primary goals, before experimenting, was to create an immersive room. The room where tests were conducted as shown in fig (x), has the following five key design aspects, floor, roof, table, chair, and curtains(walls). Apart from these elements, the best possible lighting scenario has to be generated to replicate the environment. Firstly the floor of the room has a carpet which we have created in unity using a real picture of the carpet. Secondly, the roof of the real room is built using textured tiles which are also created in unity using real pictures. Thirdly the table was replicated using internal unity tools of 3d objects. Fourthly the chair is replicated using a free unity asset store, packages. Finally, the curtains are replicated using standard 3d assets and then modified to fit our needs.
+The most important aspect to make immersive environment is to create the best possible lighting scenario. The roof of the room where tests are conducted contains multiple light sources in the roof with no light from the outside. To replicate such lighting, default light sources which included ambient lighting and directional lighting was not right. The multiple lighting in the roof also created an ambient lighting effect which created a complex shadowing effect. To simulate this kind of lighting we used multiple sources of area lighting. It helped to improve the diffused shadow effect which is created due to multiple lights on the roof. For conducting test it was significant to create multiple scenes, every scene depicting a particular test scenario.
+
+\subsection{Setup Details}
+For our experiment participants were seated in a chair and they were allowed free movement of the head and arm while restricting them to do every task while sitting on a chair. Participants were instructed not to move the position of chair. The height of the chair could be adjusted to make the participant feel comfortable. Participants were allowed to reach the objects on the table with their hands. All the activities required one hand to complete the task.
+A table was placed in front of the chair. The size of the table was 120 cm x 60 cm. And the height of the table was 70 cm. Target objects were placed on the table at different distances. 
+We used two lighthouses placed 4 m apart. The height of the lighthouse was 2.5 m and they pointed downward towards the table at an angle of 45 degrees. 
+HTC vive Pro HMD was wired with the computer.
+
+
+
+\begin{itemize}
+    \item start with a theoretical approach
+    \item describe the developed system/algorithm/method from a high-level point of view
+    \item go ahead in presenting your developments in more detail
+\end{itemize}
+
+
+\chapter{Analysis/ Evaluation}
+
+Measurement results / analysis / discussion: 1/3
+
+\begin{itemize}
+    \item whatever you have done, you must comment it, compare it to other systems, evaluate it, using e.g. subjective tests
+    \item usually, adequate graphs help to show the benefits of your approach
+    \item caution: each result/graph must be discussed! what's the reason for this peak or why have you ovserved this effect
+\end{itemize}
+
+
+\chapter{Conclusion}
+
+Conclusion: 1 page
+
+\begin{itemize}
+    \item summarize again what your thesis did, but now emphasize more the results, and comparisons
+    \item write conclusions that can be drawn from the results found and the discussion presented in the paper
+    \item future work (be very brief, explain what, but not much how)
+\end{itemize}
+

@@ -1,0 +1,2196 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{armbruster2005distance}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=5d71ba73e43a33b1bcbe6cb8d979b86d}{%
+           family={Armbr{ü}ster},
+           familyi={A\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ba8184f7a774b8d507f1720e004098d7}{%
+           family={Heber},
+           familyi={H\bibinitperiod},
+           given={I},
+           giveni={I\bibinitperiod}}}%
+        {{hash=a5368d6ef5395121ee1c0b133f4c6074}{%
+           family={Valvoda},
+           familyi={V\bibinitperiod},
+           given={Jakob\bibnamedelima T},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=4f6026df22354c41da5c6db070ed416a}{%
+           family={Kuhlen},
+           familyi={K\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c13923bd545e22ea06baebde2fa6fde7}{%
+           family={Fimm},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=db0e84cd4348dae7993cfcf6ac1783ee}{%
+           family={Spijkers},
+           familyi={S\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{fullhash}{ea23187b162bcd9514c49b6e15302c01}
+      \strng{bibnamehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{authorbibnamehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{authornamehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{authorfullhash}{ea23187b162bcd9514c49b6e15302c01}
+      \field{labelalpha}{Arm+05}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th international Conference on Human-Computer Interaction, Las Vegas, USA}
+      \field{title}{Distance Estimation in a VR application: interindividual differences and intra-individual stabilities from a psychological point of view}
+      \field{year}{2005}
+    \endentry
+    \entry{armbruster2008depth}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5d71ba73e43a33b1bcbe6cb8d979b86d}{%
+           family={Armbr{ü}ster},
+           familyi={A\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=06ef537c546082161b4eceecc06619c4}{%
+           family={Wolter},
+           familyi={W\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4f6026df22354c41da5c6db070ed416a}{%
+           family={Kuhlen},
+           familyi={K\bibinitperiod},
+           given={Torsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=db0e84cd4348dae7993cfcf6ac1783ee}{%
+           family={Spijkers},
+           familyi={S\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c13923bd545e22ea06baebde2fa6fde7}{%
+           family={Fimm},
+           familyi={F\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801~…}%
+      }
+      \strng{namehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{fullhash}{4fe9530a65db2058fb91f99e6eee50f8}
+      \strng{bibnamehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{authorbibnamehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{authornamehash}{580940c0cef908444ce71bae6cb1a35f}
+      \strng{authorfullhash}{4fe9530a65db2058fb91f99e6eee50f8}
+      \field{labelalpha}{Arm+08}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cyberpsychology \& Behavior}
+      \field{number}{1}
+      \field{title}{Depth perception in virtual reality: distance estimations in peri-and extrapersonal space}
+      \field{volume}{11}
+      \field{year}{2008}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+    \endentry
+    \entry{bingham2000distortions}{article}{}
+      \name{author}{4}{}{%
+        {{hash=18fff07d12d2cdb804a58ba8e471fb85}{%
+           family={Bingham},
+           familyi={B\bibinitperiod},
+           given={Geoffrey\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=89db8c16fb0b18a7f2263e9d7605f80f}{%
+           family={Zaal},
+           familyi={Z\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6775f4975d067e9ef6b5c04b67377a45}{%
+           family={Robin},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=de8be779591703c23b26cf33bab3f962}{%
+           family={Shull},
+           familyi={S\bibinitperiod},
+           given={J\bibnamedelima Alexander},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{1fd2c18d85376cad605c70e28af3d1ea}
+      \strng{fullhash}{c65a2eabbb395a1b8e24c7349b639423}
+      \strng{bibnamehash}{1fd2c18d85376cad605c70e28af3d1ea}
+      \strng{authorbibnamehash}{1fd2c18d85376cad605c70e28af3d1ea}
+      \strng{authornamehash}{1fd2c18d85376cad605c70e28af3d1ea}
+      \strng{authorfullhash}{c65a2eabbb395a1b8e24c7349b639423}
+      \field{labelalpha}{Bin+00}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Experimental Psychology: Human Perception and Performance}
+      \field{number}{4}
+      \field{title}{Distortions in definite distance and shape perception as measured by reaching without and with haptic feedback.}
+      \field{volume}{26}
+      \field{year}{2000}
+      \field{pages}{1436}
+      \range{pages}{1}
+    \endentry
+    \entry{bulthoff1988integration}{article}{}
+      \name{author}{2}{}{%
+        {{hash=619c10340a3e1ca9313ae5eda73910a2}{%
+           family={B{ü}lthoff},
+           familyi={B\bibinitperiod},
+           given={Heinrich\bibnamedelima H},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0b6cbaef24b1ab0cf42e39da98196014}{%
+           family={Mallot},
+           familyi={M\bibinitperiod},
+           given={Hanspeter\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{3ce5c2978e668e6201051006f553937e}
+      \strng{fullhash}{3ce5c2978e668e6201051006f553937e}
+      \strng{bibnamehash}{3ce5c2978e668e6201051006f553937e}
+      \strng{authorbibnamehash}{3ce5c2978e668e6201051006f553937e}
+      \strng{authornamehash}{3ce5c2978e668e6201051006f553937e}
+      \strng{authorfullhash}{3ce5c2978e668e6201051006f553937e}
+      \field{labelalpha}{BM88}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Josa a}
+      \field{number}{10}
+      \field{title}{Integration of depth modules: stereo and shading}
+      \field{volume}{5}
+      \field{year}{1988}
+      \field{pages}{1749\bibrangedash 1758}
+      \range{pages}{10}
+    \endentry
+    \entry{borges2018htc}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=c873dea779491d46c1cb45de8824af46}{%
+           family={Borges},
+           familyi={B\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b0fcee3a44686961ce37de4d46c2b11}{%
+           family={Symington},
+           familyi={S\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=61d7bd31db60bc75d58172f2d25f81df}{%
+           family={Coltin},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b176dc682b2e88c21a4497110cabcc9a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Trey},
+           giveni={T\bibinitperiod}}}%
+        {{hash=195895b03409154732f59af267582044}{%
+           family={Ventura},
+           familyi={V\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{8b43f4d15f170e11c5ff57d30368d6e8}
+      \strng{fullhash}{17be3f7d01baadb0503a9b195eda12ec}
+      \strng{bibnamehash}{8b43f4d15f170e11c5ff57d30368d6e8}
+      \strng{authorbibnamehash}{8b43f4d15f170e11c5ff57d30368d6e8}
+      \strng{authornamehash}{8b43f4d15f170e11c5ff57d30368d6e8}
+      \strng{authorfullhash}{17be3f7d01baadb0503a9b195eda12ec}
+      \field{labelalpha}{Bor+18}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}
+      \field{title}{HTC Vive: Analysis and accuracy improvement}
+      \field{year}{2018}
+      \field{pages}{2610\bibrangedash 2615}
+      \range{pages}{6}
+    \endentry
+    \entry{carlbom1978planar}{article}{}
+      \name{author}{2}{}{%
+        {{hash=78b62544f40bbc7f62b464c4fbebf572}{%
+           family={Carlbom},
+           familyi={C\bibinitperiod},
+           given={Ingrid},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ecc4705cdfc620ac07d543a14ace8ae6}{%
+           family={Paciorek},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{524409adea81272f122f9969c6eb6740}
+      \strng{fullhash}{524409adea81272f122f9969c6eb6740}
+      \strng{bibnamehash}{524409adea81272f122f9969c6eb6740}
+      \strng{authorbibnamehash}{524409adea81272f122f9969c6eb6740}
+      \strng{authornamehash}{524409adea81272f122f9969c6eb6740}
+      \strng{authorfullhash}{524409adea81272f122f9969c6eb6740}
+      \field{labelalpha}{CP78}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{number}{4}
+      \field{title}{Planar geometric projections and viewing transformations}
+      \field{volume}{10}
+      \field{year}{1978}
+      \field{pages}{465\bibrangedash 502}
+      \range{pages}{38}
+    \endentry
+    \entry{cutting1995perceiving}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=b4258fd30a37a4dc3f2e07e59abee3bf}{%
+           family={Cutting},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=76cf536105720b5d004fa1cdebff9232}{%
+           family={Vishton},
+           familyi={V\bibinitperiod},
+           given={Peter\bibnamedelima M},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7013840e584b38b7b3456c6772383dc2}
+      \strng{fullhash}{7013840e584b38b7b3456c6772383dc2}
+      \strng{bibnamehash}{7013840e584b38b7b3456c6772383dc2}
+      \strng{authorbibnamehash}{7013840e584b38b7b3456c6772383dc2}
+      \strng{authornamehash}{7013840e584b38b7b3456c6772383dc2}
+      \strng{authorfullhash}{7013840e584b38b7b3456c6772383dc2}
+      \field{labelalpha}{CV95}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Perception of space and motion}
+      \field{title}{Perceiving layout and knowing distances: The integration, relative potency, and contextual use of different information about depth}
+      \field{year}{1995}
+      \field{pages}{69\bibrangedash 117}
+      \range{pages}{49}
+    \endentry
+    \entry{deniaud2015investigation}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=0c209d39092bf3673cada7f9f046e065}{%
+           family={Deniaud},
+           familyi={D\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fba74ce5af2e6765d7c6eef36c8cf4fd}{%
+           family={Honnet},
+           familyi={H\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1bf8dc85568eda73ed34f1068776b76f}{%
+           family={Jeanne},
+           familyi={J\bibinitperiod},
+           given={Benoit},
+           giveni={B\bibinitperiod}}}%
+        {{hash=52c6278dfa6d4c3ca996980781359820}{%
+           family={Mestre},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{7521e63b306f1b72fea58b6d8c76fbe3}
+      \strng{fullhash}{33ab1ad13b89552e506c88eca3bd33fc}
+      \strng{bibnamehash}{7521e63b306f1b72fea58b6d8c76fbe3}
+      \strng{authorbibnamehash}{7521e63b306f1b72fea58b6d8c76fbe3}
+      \strng{authornamehash}{7521e63b306f1b72fea58b6d8c76fbe3}
+      \strng{authorfullhash}{33ab1ad13b89552e506c88eca3bd33fc}
+      \field{labelalpha}{Den+15}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 Science and Information Conference (SAI)}
+      \field{title}{An investigation into physiological responses in driving simulators: An objective measurement of presence}
+      \field{year}{2015}
+      \field{pages}{739\bibrangedash 748}
+      \range{pages}{10}
+    \endentry
+    \entry{finnegan2016compensating}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f477294a744204a5f6579f098c1390c5}{%
+           family={Finnegan},
+           familyi={F\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=475a290f61364b066c69f9a876c69fd4}{%
+           family={O'Neill},
+           familyi={O\bibinitperiod},
+           given={Eamonn},
+           giveni={E\bibinitperiod}}}%
+        {{hash=17943cc6363eb5cf420a91e2c1a5b67f}{%
+           family={Proulx},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{6f6dd2da64410638f6de67053579cfdf}
+      \strng{fullhash}{6f6dd2da64410638f6de67053579cfdf}
+      \strng{bibnamehash}{6f6dd2da64410638f6de67053579cfdf}
+      \strng{authorbibnamehash}{6f6dd2da64410638f6de67053579cfdf}
+      \strng{authornamehash}{6f6dd2da64410638f6de67053579cfdf}
+      \strng{authorfullhash}{6f6dd2da64410638f6de67053579cfdf}
+      \field{labelalpha}{FOP16}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}
+      \field{title}{Compensating for distance compression in audiovisual virtual environments using incongruence}
+      \field{year}{2016}
+      \field{pages}{200\bibrangedash 212}
+      \range{pages}{13}
+    \endentry
+    \entry{fraser2000revealing}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=f94c0b4c479e5b726a4fbf7cda0f648c}{%
+           family={Fraser},
+           familyi={F\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=469be1b4cad4e5b88f3162f1d8ddf77f}{%
+           family={Glover},
+           familyi={G\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dbdd8c47aa8ec0f1f4d597013ecbafed}{%
+           family={Vaghi},
+           familyi={V\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=06031840851b586f6adedee530bbfcdd}{%
+           family={Benford},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=553a2dfdd297f2a8eab78673cd89d8ed}{%
+           family={Greenhalgh},
+           familyi={G\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=02e929e85acd7c63da23c8ccb5212469}{%
+           family={Hindmarsh},
+           familyi={H\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5a34af5a293ee942a1b824f2c1b60978}{%
+           family={Heath},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d3e0ac6ecfdebd73b4ecec98feb03146}
+      \strng{fullhash}{078c66d27858ded95148e22862ff463a}
+      \strng{bibnamehash}{d3e0ac6ecfdebd73b4ecec98feb03146}
+      \strng{authorbibnamehash}{d3e0ac6ecfdebd73b4ecec98feb03146}
+      \strng{authornamehash}{d3e0ac6ecfdebd73b4ecec98feb03146}
+      \strng{authorfullhash}{078c66d27858ded95148e22862ff463a}
+      \field{labelalpha}{Fra+00}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the third international conference on Collaborative virtual environments}
+      \field{title}{Revealing the realities of collaborative virtual reality}
+      \field{year}{2000}
+      \field{pages}{29\bibrangedash 37}
+      \range{pages}{9}
+    \endentry
+    \entry{grechkin2010does}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1e8d54e1943d2bd627c4c143382f6db7}{%
+           family={Grechkin},
+           familyi={G\bibinitperiod},
+           given={Timofey\bibnamedelima Y},
+           giveni={T\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=6e29110dfa4bd3696577d55554263107}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Tien\bibnamedelima Dat},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=74b37c55cb4f4eb81f9834d75804d0e8}{%
+           family={Plumert},
+           familyi={P\bibinitperiod},
+           given={Jodie\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a3e0f3ca0c929c75b14ef07b252c3a45}{%
+           family={Cremer},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9172c55da7df6a54d2093aeb64386a37}{%
+           family={Kearney},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{d52c0e550d9aa3b926ecec56ada29ca0}
+      \strng{fullhash}{0ae25b589d54d7d85a30d867ab330471}
+      \strng{bibnamehash}{d52c0e550d9aa3b926ecec56ada29ca0}
+      \strng{authorbibnamehash}{d52c0e550d9aa3b926ecec56ada29ca0}
+      \strng{authornamehash}{d52c0e550d9aa3b926ecec56ada29ca0}
+      \strng{authorfullhash}{0ae25b589d54d7d85a30d867ab330471}
+      \field{labelalpha}{Gre+10}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Applied Perception (TAP)}
+      \field{number}{4}
+      \field{title}{How does presentation method and measurement protocol affect distance estimation in real and virtual environments?}
+      \field{volume}{7}
+      \field{year}{2010}
+      \field{pages}{26}
+      \range{pages}{1}
+    \endentry
+    \entry{harth2018different}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b9f153314b6d76bc49b000147e16e3c8}{%
+           family={Harth},
+           familyi={H\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6f3fcb59af34f9e92778dc588bb4e431}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=77440ee8134e75143d017249d7acb381}{%
+           family={Karst},
+           familyi={K\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c31e73b23c6c73c806f8fd027ffee66f}{%
+           family={Kempf},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a80a1b7fa8fc7360329c565759e3e9a0}{%
+           family={Ostertag},
+           familyi={O\bibinitperiod},
+           given={Annelie},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e22d049ac355bcc7797156a796ff357e}{%
+           family={Przemus},
+           familyi={P\bibinitperiod},
+           given={Isabell},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9145cc6b6fda34177f5376b1fad6f04a}{%
+           family={Schaefermeyer},
+           familyi={S\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a3601127535a6a46a31644b7ec23e2c5}
+      \strng{fullhash}{d7f4b6aa850add29d36a649bde29d347}
+      \strng{bibnamehash}{a3601127535a6a46a31644b7ec23e2c5}
+      \strng{authorbibnamehash}{a3601127535a6a46a31644b7ec23e2c5}
+      \strng{authornamehash}{a3601127535a6a46a31644b7ec23e2c5}
+      \strng{authorfullhash}{d7f4b6aa850add29d36a649bde29d347}
+      \field{labelalpha}{Har+18}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Consumer Electronics Magazine}
+      \field{number}{4}
+      \field{title}{Different Types of Users, Different Types of Immersion: A User Study of Interaction Design and Immersion in Consumer Virtual Reality}
+      \field{volume}{7}
+      \field{year}{2018}
+      \field{pages}{36\bibrangedash 43}
+      \range{pages}{8}
+    \endentry
+    \entry{hoffman1998physically}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=d35d443380e0d9c8db0bde340cccc084}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Hunter\bibnamedelima G},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d35d443380e0d9c8db0bde340cccc084}
+      \strng{fullhash}{d35d443380e0d9c8db0bde340cccc084}
+      \strng{bibnamehash}{d35d443380e0d9c8db0bde340cccc084}
+      \strng{authorbibnamehash}{d35d443380e0d9c8db0bde340cccc084}
+      \strng{authornamehash}{d35d443380e0d9c8db0bde340cccc084}
+      \strng{authorfullhash}{d35d443380e0d9c8db0bde340cccc084}
+      \field{labelalpha}{Hof98}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings. IEEE 1998 Virtual Reality Annual International Symposium (Cat. No. 98CB36180)}
+      \field{title}{Physically touching virtual objects using tactile augmentation enhances the realism of virtual environments}
+      \field{year}{1998}
+      \field{pages}{59\bibrangedash 63}
+      \range{pages}{5}
+    \endentry
+    \entry{interrante2006distance}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=d0b22098f193cdcfcd300747b7db16db}{%
+           family={Interrante},
+           familyi={I\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d13f120ba855f363ab582fedb03ca53f}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9e40e2f102e3b2b418356325700a7bf9}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{22ca8fd8c6802951d869f652e75e145c}
+      \strng{fullhash}{22ca8fd8c6802951d869f652e75e145c}
+      \strng{bibnamehash}{22ca8fd8c6802951d869f652e75e145c}
+      \strng{authorbibnamehash}{22ca8fd8c6802951d869f652e75e145c}
+      \strng{authornamehash}{22ca8fd8c6802951d869f652e75e145c}
+      \strng{authorfullhash}{22ca8fd8c6802951d869f652e75e145c}
+      \field{labelalpha}{IRA06}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE Virtual Reality Conference (VR 2006)}
+      \field{title}{Distance perception in immersive virtual environments, revisited}
+      \field{year}{2006}
+      \field{pages}{3\bibrangedash 10}
+      \range{pages}{8}
+    \endentry
+    \entry{kennedy1993simulator}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3edfd9ecd0d17a6aa7f24d5c51c76acb}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=10c3f7cac6c207649e69b308ffa0041e}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Norman\bibnamedelima E},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=af48ec00bbc308ec83c5616b86621a6c}{%
+           family={Berbaum},
+           familyi={B\bibinitperiod},
+           given={Kevin\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=fd8fd98bc835dffd17c91f2b8dac9ac5}{%
+           family={Lilienthal},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{2c3335f7199a3af22a1c27064ced2b53}
+      \strng{fullhash}{aeea7fa00d6d08f219fdbd769c5b4dd6}
+      \strng{bibnamehash}{2c3335f7199a3af22a1c27064ced2b53}
+      \strng{authorbibnamehash}{2c3335f7199a3af22a1c27064ced2b53}
+      \strng{authornamehash}{2c3335f7199a3af22a1c27064ced2b53}
+      \strng{authorfullhash}{aeea7fa00d6d08f219fdbd769c5b4dd6}
+      \field{labelalpha}{Ken+93}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The international journal of aviation psychology}
+      \field{number}{3}
+      \field{title}{Simulator sickness questionnaire: An enhanced method for quantifying simulator sickness}
+      \field{volume}{3}
+      \field{year}{1993}
+      \field{pages}{203\bibrangedash 220}
+      \range{pages}{18}
+    \endentry
+    \entry{khalid2016optimal}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b2f61ad363c314c1e62f376841c841ac}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={Shah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=af54eaad794ce360725e65a73ca9c62d}{%
+           family={Ullah},
+           familyi={U\bibinitperiod},
+           given={Sehat},
+           giveni={S\bibinitperiod}}}%
+        {{hash=51ea2305b4fe5bfd82dce651d2e967a5}{%
+           family={Alam},
+           familyi={A\bibinitperiod},
+           given={Aftab},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c0aedfedea7bdbf11666552ee7c01628}{%
+           family={Din},
+           familyi={D\bibinitperiod},
+           given={Fakhrud},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{82ea4ae5a80f57bb18093d72306e97ae}
+      \strng{fullhash}{dd7fcc9a8c0790920e298499f05a9bdb}
+      \strng{bibnamehash}{82ea4ae5a80f57bb18093d72306e97ae}
+      \strng{authorbibnamehash}{82ea4ae5a80f57bb18093d72306e97ae}
+      \strng{authornamehash}{82ea4ae5a80f57bb18093d72306e97ae}
+      \strng{authorfullhash}{dd7fcc9a8c0790920e298499f05a9bdb}
+      \field{labelalpha}{Kha+16}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{number}{3}
+      \field{title}{Optimal latency in collaborative virtual environment to increase user performance: A survey}
+      \field{volume}{142}
+      \field{year}{2016}
+      \field{pages}{35\bibrangedash 47}
+      \range{pages}{13}
+    \endentry
+    \entry{kennedy2000duration}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3edfd9ecd0d17a6aa7f24d5c51c76acb}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6161d303b2978e89c6b0c104d4a7399e}{%
+           family={Stanney},
+           familyi={S\bibinitperiod},
+           given={Kay\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1308ca002ef5dd5205076cad3aacd3da}{%
+           family={Dunlap},
+           familyi={D\bibinitperiod},
+           given={William\bibnamedelima P},
+           giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{700319cc2a977326f897439d19a45cff}
+      \strng{fullhash}{700319cc2a977326f897439d19a45cff}
+      \strng{bibnamehash}{700319cc2a977326f897439d19a45cff}
+      \strng{authorbibnamehash}{700319cc2a977326f897439d19a45cff}
+      \strng{authornamehash}{700319cc2a977326f897439d19a45cff}
+      \strng{authorfullhash}{700319cc2a977326f897439d19a45cff}
+      \field{labelalpha}{KSD00}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators \& Virtual Environments}
+      \field{number}{5}
+      \field{title}{Duration and exposure to virtual environments: sickness curves during and across sessions}
+      \field{volume}{9}
+      \field{year}{2000}
+      \field{pages}{463\bibrangedash 472}
+      \range{pages}{10}
+    \endentry
+    \entry{lampton1995distance}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=98fdc84fc1c379e6e4200bdd77574c5b}{%
+           family={Lampton},
+           familyi={L\bibinitperiod},
+           given={Donald\bibnamedelima R},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3c4e6e5661740dfeb7c12a00a050f9f8}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Daniel\bibnamedelima P},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0ebfa6503f2a17fce21e461c4d1ae768}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1c6eb5625d7d37c4d9341835174d2acc}{%
+           family={Bliss},
+           familyi={B\bibinitperiod},
+           given={James\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{43ebb78cf5c77f9b38833b7b98cf964e}
+      \strng{fullhash}{d247aa5dda1572782876b87f5d4e5017}
+      \strng{bibnamehash}{43ebb78cf5c77f9b38833b7b98cf964e}
+      \strng{authorbibnamehash}{43ebb78cf5c77f9b38833b7b98cf964e}
+      \strng{authornamehash}{43ebb78cf5c77f9b38833b7b98cf964e}
+      \strng{authorfullhash}{d247aa5dda1572782876b87f5d4e5017}
+      \field{labelalpha}{Lam+95}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the human factors and ergonomics society annual meeting}
+      \field{number}{20}
+      \field{title}{Distance estimation in virtual environments}
+      \field{volume}{39}
+      \field{year}{1995}
+      \field{pages}{1268\bibrangedash 1272}
+      \range{pages}{5}
+    \endentry
+    \entry{laycock2003recent}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=8ce141c8151332c2425e7d4e25b30896}{%
+           family={Laycock},
+           familyi={L\bibinitperiod},
+           given={Stephen\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=5950f31d8b55b9caab2378757d5776c8}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={AM},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{49c0198905183a50f35f3ecc5060a39f}
+      \strng{fullhash}{49c0198905183a50f35f3ecc5060a39f}
+      \strng{bibnamehash}{49c0198905183a50f35f3ecc5060a39f}
+      \strng{authorbibnamehash}{49c0198905183a50f35f3ecc5060a39f}
+      \strng{authornamehash}{49c0198905183a50f35f3ecc5060a39f}
+      \strng{authorfullhash}{49c0198905183a50f35f3ecc5060a39f}
+      \field{labelalpha}{LD03}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer Graphics Forum}
+      \field{number}{2}
+      \field{title}{Recent developments and applications of haptic devices}
+      \field{volume}{22}
+      \field{year}{2003}
+      \field{pages}{117\bibrangedash 132}
+      \range{pages}{16}
+    \endentry
+    \entry{lombard1997heart}{article}{}
+      \name{author}{2}{}{%
+        {{hash=630e1e706e0024658b48a22c83e885ed}{%
+           family={Lombard},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eec9527bf555e2c2f10d14ffb2cb376e}{%
+           family={Ditton},
+           familyi={D\bibinitperiod},
+           given={Theresa},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press Oxford, UK}%
+      }
+      \strng{namehash}{eee2c7185ffdc680ce575e1d75332360}
+      \strng{fullhash}{eee2c7185ffdc680ce575e1d75332360}
+      \strng{bibnamehash}{eee2c7185ffdc680ce575e1d75332360}
+      \strng{authorbibnamehash}{eee2c7185ffdc680ce575e1d75332360}
+      \strng{authornamehash}{eee2c7185ffdc680ce575e1d75332360}
+      \strng{authorfullhash}{eee2c7185ffdc680ce575e1d75332360}
+      \field{labelalpha}{LD97}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of computer-mediated communication}
+      \field{number}{2}
+      \field{title}{At the heart of it all: The concept of presence}
+      \field{volume}{3}
+      \field{year}{1997}
+      \field{pages}{JCMC321}
+      \range{pages}{-1}
+    \endentry
+    \entry{loomis2003visual}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{2}{}{%
+        {{hash=2bd39d08e105020e9080fca39e875bc8}{%
+           family={Loomis},
+           familyi={L\bibinitperiod},
+           given={Jack\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e99ac436fb2fc684117bb29e6df099e0}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={Joshua\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e81f469e0008126e43ac82f1d866c66}
+      \strng{fullhash}{0e81f469e0008126e43ac82f1d866c66}
+      \strng{bibnamehash}{0e81f469e0008126e43ac82f1d866c66}
+      \strng{authorbibnamehash}{0e81f469e0008126e43ac82f1d866c66}
+      \strng{authornamehash}{0e81f469e0008126e43ac82f1d866c66}
+      \strng{authorfullhash}{0e81f469e0008126e43ac82f1d866c66}
+      \field{labelalpha}{LK+03}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Virtual and adaptive environments}
+      \field{title}{Visual perception of egocentric distance in real and virtual environments}
+      \field{volume}{11}
+      \field{year}{2003}
+      \field{pages}{21\bibrangedash 46}
+      \range{pages}{26}
+    \endentry
+    \entry{mandal2013brief}{article}{}
+      \name{author}{1}{}{%
+        {{hash=90d74ec867b9137f60487e8815cd563a}{%
+           family={Mandal},
+           familyi={M\bibinitperiod},
+           given={Sharmistha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{90d74ec867b9137f60487e8815cd563a}
+      \strng{fullhash}{90d74ec867b9137f60487e8815cd563a}
+      \strng{bibnamehash}{90d74ec867b9137f60487e8815cd563a}
+      \strng{authorbibnamehash}{90d74ec867b9137f60487e8815cd563a}
+      \strng{authornamehash}{90d74ec867b9137f60487e8815cd563a}
+      \strng{authorfullhash}{90d74ec867b9137f60487e8815cd563a}
+      \field{labelalpha}{Man13}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Scientific \& Engineering Research}
+      \field{number}{4}
+      \field{title}{Brief introduction of virtual reality \& its challenges}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{304\bibrangedash 309}
+      \range{pages}{6}
+    \endentry
+    \entry{moss2011characteristics}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a652a56e63fe14fbcc228d166920fa12}{%
+           family={Moss},
+           familyi={M\bibinitperiod},
+           given={Jason\bibnamedelima D},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=bd1491d67f786c8dd9ddf201b6638a6e}{%
+           family={Muth},
+           familyi={M\bibinitperiod},
+           given={Eric\bibnamedelima R},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{49804aa145acdcdd0d70a1177ac378ca}
+      \strng{fullhash}{49804aa145acdcdd0d70a1177ac378ca}
+      \strng{bibnamehash}{49804aa145acdcdd0d70a1177ac378ca}
+      \strng{authorbibnamehash}{49804aa145acdcdd0d70a1177ac378ca}
+      \strng{authornamehash}{49804aa145acdcdd0d70a1177ac378ca}
+      \strng{authorfullhash}{49804aa145acdcdd0d70a1177ac378ca}
+      \field{labelalpha}{MM11}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human factors}
+      \field{number}{3}
+      \field{title}{Characteristics of head-mounted displays and their effects on simulator sickness}
+      \field{volume}{53}
+      \field{year}{2011}
+      \field{pages}{308\bibrangedash 319}
+      \range{pages}{12}
+    \endentry
+    \entry{napieralski2011near}{article}{}
+      \name{author}{8}{}{%
+        {{hash=796de5d7aa0e141d66dc2f7917a964ed}{%
+           family={Napieralski},
+           familyi={N\bibinitperiod},
+           given={Phillip\bibnamedelima E},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ac019943bb6212a05c3e35a781423e67}{%
+           family={Altenhoff},
+           familyi={A\bibinitperiod},
+           given={Bliss\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3b14882a405c2afcd13652861534d10f}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d8c67e35a803f15b8b47024e40daccba}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Lindsay\bibnamedelima O},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=900bb8df816e4425094c53a2f3011178}{%
+           family={Babu},
+           familyi={B\bibinitperiod},
+           given={Sabarish\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=ff18e41fed90c6907d48285983edb111}{%
+           family={Pagano},
+           familyi={P\bibinitperiod},
+           given={Christopher\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0a730dcaec155167858578d90db11e06}{%
+           family={Kern},
+           familyi={K\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1d1d134c9bd4f6c4b689f29940cc1e25}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Timothy\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{320fac0637d38b30f30c06a5e740590c}
+      \strng{fullhash}{74111f63ac47801218f802c9d36cd8f5}
+      \strng{bibnamehash}{320fac0637d38b30f30c06a5e740590c}
+      \strng{authorbibnamehash}{320fac0637d38b30f30c06a5e740590c}
+      \strng{authornamehash}{320fac0637d38b30f30c06a5e740590c}
+      \strng{authorfullhash}{74111f63ac47801218f802c9d36cd8f5}
+      \field{labelalpha}{Nap+11}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Applied Perception (TAP)}
+      \field{number}{3}
+      \field{title}{Near-field distance perception in real and virtual environments using both verbal and action responses}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{18}
+      \range{pages}{1}
+    \endentry
+    \entry{niehorster2017accuracy}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d219fe8ca8a336a852ee22e20da673b6}{%
+           family={Niehorster},
+           familyi={N\bibinitperiod},
+           given={Diederick\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=502de95c3193f5c283f4ef712520a97e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fe3d5bcf3d802fa0cbd741d4e3b666f1}{%
+           family={Lappe},
+           familyi={L\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{d0f469ba3acb67c9bb907444d7edaa47}
+      \strng{fullhash}{d0f469ba3acb67c9bb907444d7edaa47}
+      \strng{bibnamehash}{d0f469ba3acb67c9bb907444d7edaa47}
+      \strng{authorbibnamehash}{d0f469ba3acb67c9bb907444d7edaa47}
+      \strng{authornamehash}{d0f469ba3acb67c9bb907444d7edaa47}
+      \strng{authorfullhash}{d0f469ba3acb67c9bb907444d7edaa47}
+      \field{labelalpha}{NLL17}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{i-Perception}
+      \field{number}{3}
+      \field{title}{The accuracy and precision of position and orientation tracking in the HTC vive virtual reality system for scientific research}
+      \field{volume}{8}
+      \field{year}{2017}
+      \field{pages}{2041669517708205}
+      \range{pages}{1}
+    \endentry
+    \entry{phillips2009distance}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=80cfc90970e2d399056f0d8bf2ad5e4f}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Lane},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d13f120ba855f363ab582fedb03ca53f}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d0b22098f193cdcfcd300747b7db16db}{%
+           family={Interrante},
+           familyi={I\bibinitperiod},
+           given={Victoria},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5cc059c1ed53703ee1b9f68bbb09d0c4}{%
+           family={Kaeding},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9e40e2f102e3b2b418356325700a7bf9}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{93fa50ec8056b643b7e7972a6b9cfe57}
+      \strng{fullhash}{5daab659647ba94768f38e58a07c8b94}
+      \strng{bibnamehash}{93fa50ec8056b643b7e7972a6b9cfe57}
+      \strng{authorbibnamehash}{93fa50ec8056b643b7e7972a6b9cfe57}
+      \strng{authornamehash}{93fa50ec8056b643b7e7972a6b9cfe57}
+      \strng{authorfullhash}{5daab659647ba94768f38e58a07c8b94}
+      \field{labelalpha}{Phi+09}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 6th Symposium on Applied Perception in Graphics and Visualization}
+      \field{title}{Distance perception in NPR immersive virtual environments, revisited}
+      \field{year}{2009}
+      \field{pages}{11\bibrangedash 14}
+      \range{pages}{4}
+    \endentry
+    \entry{pagano2008expectation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ff18e41fed90c6907d48285983edb111}{%
+           family={Pagano},
+           familyi={P\bibinitperiod},
+           given={Christopher\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=5eb1c5ec0d9288d1b2046a453cfec7d7}{%
+           family={Isenhower},
+           familyi={I\bibinitperiod},
+           given={Robert\bibnamedelima W},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1d0bc44ddabd3a3901ad16892085a54d}
+      \strng{fullhash}{1d0bc44ddabd3a3901ad16892085a54d}
+      \strng{bibnamehash}{1d0bc44ddabd3a3901ad16892085a54d}
+      \strng{authorbibnamehash}{1d0bc44ddabd3a3901ad16892085a54d}
+      \strng{authornamehash}{1d0bc44ddabd3a3901ad16892085a54d}
+      \strng{authorfullhash}{1d0bc44ddabd3a3901ad16892085a54d}
+      \field{labelalpha}{PI08}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic bulletin \& review}
+      \field{number}{2}
+      \field{title}{Expectation affects verbal judgments but not reaches to visually perceived egocentric distances}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{437\bibrangedash 442}
+      \range{pages}{6}
+    \endentry
+    \entry{plumert2005distance}{article}{}
+      \name{author}{4}{}{%
+        {{hash=74b37c55cb4f4eb81f9834d75804d0e8}{%
+           family={Plumert},
+           familyi={P\bibinitperiod},
+           given={Jodie\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9172c55da7df6a54d2093aeb64386a37}{%
+           family={Kearney},
+           familyi={K\bibinitperiod},
+           given={Joseph\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a3e0f3ca0c929c75b14ef07b252c3a45}{%
+           family={Cremer},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8283d3d4fcb55f3a88633e89d6c04f77}{%
+           family={Recker},
+           familyi={R\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{708bb08a8e6f449b1d91e986c872dc1e}
+      \strng{fullhash}{9805ccf3adecde29f87ee3b8325ebb3d}
+      \strng{bibnamehash}{708bb08a8e6f449b1d91e986c872dc1e}
+      \strng{authorbibnamehash}{708bb08a8e6f449b1d91e986c872dc1e}
+      \strng{authornamehash}{708bb08a8e6f449b1d91e986c872dc1e}
+      \strng{authorfullhash}{9805ccf3adecde29f87ee3b8325ebb3d}
+      \field{labelalpha}{Plu+05}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Applied Perception (TAP)}
+      \field{number}{3}
+      \field{title}{Distance perception in real and virtual environments}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{216\bibrangedash 233}
+      \range{pages}{18}
+    \endentry
+    \entry{peer2017evaluating}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=f41ce064d95cbdb56ec8b8102d02205a}{%
+           family={Peer},
+           familyi={P\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=358d69176a21ecb5738ddabcb09317c1}{%
+           family={Ponto},
+           familyi={P\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{473ae7ab4dd17bdc6a1a605391478366}
+      \strng{fullhash}{473ae7ab4dd17bdc6a1a605391478366}
+      \strng{bibnamehash}{473ae7ab4dd17bdc6a1a605391478366}
+      \strng{authorbibnamehash}{473ae7ab4dd17bdc6a1a605391478366}
+      \strng{authornamehash}{473ae7ab4dd17bdc6a1a605391478366}
+      \strng{authorfullhash}{473ae7ab4dd17bdc6a1a605391478366}
+      \field{labelalpha}{PP17}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE Symposium on 3D User Interfaces (3DUI)}
+      \field{title}{Evaluating perceived distance measures in room-scale spaces using consumer-grade head mounted displays}
+      \field{year}{2017}
+      \field{pages}{83\bibrangedash 86}
+      \range{pages}{4}
+    \endentry
+    \entry{reason1975motion}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9cc7aa78fcee9b45cc0880714b5017db}{%
+           family={Reason},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima T},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=4722d3961b5755821b96e345dfe53bda}{%
+           family={Brand},
+           familyi={B\bibinitperiod},
+           given={Joseph\bibnamedelima John},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic press}%
+      }
+      \strng{namehash}{c9d20c5594c7d3598225d84c74ea0bc2}
+      \strng{fullhash}{c9d20c5594c7d3598225d84c74ea0bc2}
+      \strng{bibnamehash}{c9d20c5594c7d3598225d84c74ea0bc2}
+      \strng{authorbibnamehash}{c9d20c5594c7d3598225d84c74ea0bc2}
+      \strng{authornamehash}{c9d20c5594c7d3598225d84c74ea0bc2}
+      \strng{authorfullhash}{c9d20c5594c7d3598225d84c74ea0bc2}
+      \field{labelalpha}{RB75}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Motion sickness.}
+      \field{year}{1975}
+    \endentry
+    \entry{ruhleder1999meaning}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=40b838039aee1128a88bcd57520da11e}{%
+           family={Ruhleder},
+           familyi={R\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3c3d4cc53fb7488bf2e4027aa8d67800}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{704b02cfdd4291c12845b9c6c8210921}
+      \strng{fullhash}{704b02cfdd4291c12845b9c6c8210921}
+      \strng{bibnamehash}{704b02cfdd4291c12845b9c6c8210921}
+      \strng{authorbibnamehash}{704b02cfdd4291c12845b9c6c8210921}
+      \strng{authornamehash}{704b02cfdd4291c12845b9c6c8210921}
+      \strng{authorfullhash}{704b02cfdd4291c12845b9c6c8210921}
+      \field{labelalpha}{RJ99}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ECSCW’99}
+      \field{title}{Meaning-making across remote sites: How delays in transmission affect interaction}
+      \field{year}{1999}
+      \field{pages}{411\bibrangedash 429}
+      \range{pages}{19}
+    \endentry
+    \entry{Renner:2013:PED:2543581.2543590}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e06256e1d322df69cdd703ec7257d8d3}{%
+           family={Renner},
+           familyi={R\bibinitperiod},
+           given={Rebekka\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=edca28ebb807b68fe16f55d8bd7fbd8b}{%
+           family={Velichkovsky},
+           familyi={V\bibinitperiod},
+           given={Boris\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0d53183cd24c2fe946d99eeba03f31d8}{%
+           family={Helmert},
+           familyi={H\bibinitperiod},
+           given={Jens\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{1aacd007c3092c818682aa88ef8d8b2a}
+      \strng{fullhash}{1aacd007c3092c818682aa88ef8d8b2a}
+      \strng{bibnamehash}{1aacd007c3092c818682aa88ef8d8b2a}
+      \strng{authorbibnamehash}{1aacd007c3092c818682aa88ef8d8b2a}
+      \strng{authornamehash}{1aacd007c3092c818682aa88ef8d8b2a}
+      \strng{authorfullhash}{1aacd007c3092c818682aa88ef8d8b2a}
+      \field{labelalpha}{RVH13}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-0300}
+      \field{journaltitle}{ACM Comput. Surv.}
+      \field{month}{12}
+      \field{number}{2}
+      \field{title}{The Perception of Egocentric Distances in Virtual Environments - A Review}
+      \field{volume}{46}
+      \field{year}{2013}
+      \field{pages}{23:1\bibrangedash 23:40}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/2543581.2543590
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.acm.org/10.1145/2543581.2543590
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2543581.2543590
+      \endverb
+      \keyw{Depth perception,distance estimation,perception,virtual environments,virtual reality}
+    \endentry
+    \entry{renner2013perception}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a3c49ceae4824ff9168984767087afda}{%
+           family={Renner},
+           familyi={R\bibinitperiod},
+           given={Rebekka\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=7a4201ee475f0b5b93bbe967c78281ec}{%
+           family={Velichkovsky},
+           familyi={V\bibinitperiod},
+           given={Boris\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bbaa6a192aa422a61451351be228c678}{%
+           family={Helmert},
+           familyi={H\bibinitperiod},
+           given={Jens\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7767e6f08132af8e9d09542b12ea7add}
+      \strng{fullhash}{7767e6f08132af8e9d09542b12ea7add}
+      \strng{bibnamehash}{7767e6f08132af8e9d09542b12ea7add}
+      \strng{authorbibnamehash}{7767e6f08132af8e9d09542b12ea7add}
+      \strng{authornamehash}{7767e6f08132af8e9d09542b12ea7add}
+      \strng{authorfullhash}{7767e6f08132af8e9d09542b12ea7add}
+      \field{labelalpha}{RVH13}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys (CSUR)}
+      \field{number}{2}
+      \field{title}{The perception of egocentric distances in virtual environments-a review}
+      \field{volume}{46}
+      \field{year}{2013}
+      \field{pages}{23}
+      \range{pages}{1}
+    \endentry
+    \entry{sahm2005throwing}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1f83b62ddc36c014d88c6878ab1f3ff3}{%
+           family={Sahm},
+           familyi={S\bibinitperiod},
+           given={Cynthia\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=595193aa0858502a853f53306290452b}{%
+           family={Creem-Regehr},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Sarah\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=daae45e09731d5649d5414a664e2dfb3}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima B},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6a392d115a7929a4737091164d45a71e}{%
+           family={Willemsen},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{fde28b852fe045acc4f469cd939567fa}
+      \strng{fullhash}{472c79ba13cd3e22eb7338133f1a26aa}
+      \strng{bibnamehash}{fde28b852fe045acc4f469cd939567fa}
+      \strng{authorbibnamehash}{fde28b852fe045acc4f469cd939567fa}
+      \strng{authornamehash}{fde28b852fe045acc4f469cd939567fa}
+      \strng{authorfullhash}{472c79ba13cd3e22eb7338133f1a26aa}
+      \field{labelalpha}{Sah+05}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Applied Perception (TAP)}
+      \field{number}{1}
+      \field{title}{Throwing versus walking as indicators of distance perception in similar real and virtual environments}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{35\bibrangedash 45}
+      \range{pages}{11}
+    \endentry
+    \entry{schubert2001experience}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b26ac9951d04483171485da590098c03}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0e99067f17877cf36a7a85589376e8bb}{%
+           family={Friedmann},
+           familyi={F\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7dc8a1be4d57790fcccd12ed85845c30}{%
+           family={Regenbrecht},
+           familyi={R\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{17d0116a3ab251b47803406f70424800}
+      \strng{fullhash}{17d0116a3ab251b47803406f70424800}
+      \strng{bibnamehash}{17d0116a3ab251b47803406f70424800}
+      \strng{authorbibnamehash}{17d0116a3ab251b47803406f70424800}
+      \strng{authornamehash}{17d0116a3ab251b47803406f70424800}
+      \strng{authorfullhash}{17d0116a3ab251b47803406f70424800}
+      \field{labelalpha}{SFR01}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators \& Virtual Environments}
+      \field{number}{3}
+      \field{title}{The experience of presence: Factor analytic insights}
+      \field{volume}{10}
+      \field{year}{2001}
+      \field{pages}{266\bibrangedash 281}
+      \range{pages}{16}
+    \endentry
+    \entry{sharples2008virtual}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6f35902b2ad5309ef6cd2800b9c8f91c}{%
+           family={Sharples},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a213d47204d3f20c7f0e6e3d33e6e9f4}{%
+           family={Cobb},
+           familyi={C\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7bdc24b78c6e474bf2d582f9855cc182}{%
+           family={Moody},
+           familyi={M\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9f8d639de822d8cf481f3cbc3a0c94bd}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{902c7705cd0f2288f230e9907c05e228}
+      \strng{fullhash}{06f7c74ffe827a1e8ea70318d91c7443}
+      \strng{bibnamehash}{902c7705cd0f2288f230e9907c05e228}
+      \strng{authorbibnamehash}{902c7705cd0f2288f230e9907c05e228}
+      \strng{authornamehash}{902c7705cd0f2288f230e9907c05e228}
+      \strng{authorfullhash}{06f7c74ffe827a1e8ea70318d91c7443}
+      \field{labelalpha}{Sha+08}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Displays}
+      \field{number}{2}
+      \field{title}{Virtual reality induced symptoms and effects (VRISE): Comparison of head mounted display (HMD), desktop and projection display systems}
+      \field{volume}{29}
+      \field{year}{2008}
+      \field{pages}{58\bibrangedash 69}
+      \range{pages}{12}
+    \endentry
+    \entry{sheridan1992musings}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4a4a1cf7cc83098d96d1317bd4ebfa06}{%
+           family={Sheridan},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima B},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{4a4a1cf7cc83098d96d1317bd4ebfa06}
+      \strng{fullhash}{4a4a1cf7cc83098d96d1317bd4ebfa06}
+      \strng{bibnamehash}{4a4a1cf7cc83098d96d1317bd4ebfa06}
+      \strng{authorbibnamehash}{4a4a1cf7cc83098d96d1317bd4ebfa06}
+      \strng{authornamehash}{4a4a1cf7cc83098d96d1317bd4ebfa06}
+      \strng{authorfullhash}{4a4a1cf7cc83098d96d1317bd4ebfa06}
+      \field{labelalpha}{She92}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators \& Virtual Environments}
+      \field{number}{1}
+      \field{title}{Musings on telepresence and virtual presence}
+      \field{volume}{1}
+      \field{year}{1992}
+      \field{pages}{120\bibrangedash 126}
+      \range{pages}{7}
+    \endentry
+    \entry{singh2010depth}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=0bb27224ef5cf367a1b950af4b1719e8}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Gurjot},
+           giveni={G\bibinitperiod}}}%
+        {{hash=84fee223d43a29adaba4f93764f5d74f}{%
+           family={Swan\bibnamedelima II},
+           familyi={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={J\bibnamedelima Edward},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=b638e6567b6f361a3f4de1ef68f3c770}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={J\bibnamedelima Adam},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0e3d8e216781b9d0570a64af2a75d992}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={Stephen\bibnamedelima R},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{785ba94cc5dc1cda48ece8d1bc6a59c2}
+      \strng{fullhash}{d8233552a42d4d497e8483ed9a8be461}
+      \strng{bibnamehash}{785ba94cc5dc1cda48ece8d1bc6a59c2}
+      \strng{authorbibnamehash}{785ba94cc5dc1cda48ece8d1bc6a59c2}
+      \strng{authornamehash}{785ba94cc5dc1cda48ece8d1bc6a59c2}
+      \strng{authorfullhash}{d8233552a42d4d497e8483ed9a8be461}
+      \field{labelalpha}{Sin+10}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 7th Symposium on Applied Perception in Graphics and Visualization}
+      \field{title}{Depth judgment measures and occluding surfaces in near-field augmented reality}
+      \field{year}{2010}
+      \field{pages}{149\bibrangedash 156}
+      \range{pages}{8}
+    \endentry
+    \entry{slater1998influence}{article}{}
+      \name{author}{3}{}{%
+        {{hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=627c3779677d0eaf3312e5b67e8cbe0c}{%
+           family={McCarthy},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3c4a0585a403a77c079b07238fe1babe}{%
+           family={Maringelli},
+           familyi={M\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{f5a7a7781f0245cb9552cf21de2aa660}
+      \strng{fullhash}{f5a7a7781f0245cb9552cf21de2aa660}
+      \strng{bibnamehash}{f5a7a7781f0245cb9552cf21de2aa660}
+      \strng{authorbibnamehash}{f5a7a7781f0245cb9552cf21de2aa660}
+      \strng{authornamehash}{f5a7a7781f0245cb9552cf21de2aa660}
+      \strng{authorfullhash}{f5a7a7781f0245cb9552cf21de2aa660}
+      \field{labelalpha}{SMM98}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Factors}
+      \field{number}{3}
+      \field{title}{The influence of body movement on subjective presence in virtual environments}
+      \field{volume}{40}
+      \field{year}{1998}
+      \field{pages}{469\bibrangedash 477}
+      \range{pages}{9}
+    \endentry
+    \entry{sanchez2005presence}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c7c461bf7af0c88a733773756fd1ebe7}{%
+           family={Sanchez-Vives},
+           familyi={S\bibinithyphendelim V\bibinitperiod},
+           given={Maria\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{f7dcd5e4bbba5f904ff01c947c559e27}
+      \strng{fullhash}{f7dcd5e4bbba5f904ff01c947c559e27}
+      \strng{bibnamehash}{f7dcd5e4bbba5f904ff01c947c559e27}
+      \strng{authorbibnamehash}{f7dcd5e4bbba5f904ff01c947c559e27}
+      \strng{authornamehash}{f7dcd5e4bbba5f904ff01c947c559e27}
+      \strng{authorfullhash}{f7dcd5e4bbba5f904ff01c947c559e27}
+      \field{labelalpha}{SS05}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Neuroscience}
+      \field{number}{4}
+      \field{title}{From presence to consciousness through virtual reality}
+      \field{volume}{6}
+      \field{year}{2005}
+      \field{pages}{332}
+      \range{pages}{1}
+    \endentry
+    \entry{siegel1975development}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=8c4125c27db59417187f608457b46325}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=124fede3290d8112f07d56421d1c23bd}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Sheldon\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{655887354c76482a24039445f0dc1b30}
+      \strng{fullhash}{655887354c76482a24039445f0dc1b30}
+      \strng{bibnamehash}{655887354c76482a24039445f0dc1b30}
+      \strng{authorbibnamehash}{655887354c76482a24039445f0dc1b30}
+      \strng{authornamehash}{655887354c76482a24039445f0dc1b30}
+      \strng{authorfullhash}{655887354c76482a24039445f0dc1b30}
+      \field{labelalpha}{SW75}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in child development and behavior}
+      \field{title}{The development of spatial representations of large-scale environments}
+      \field{volume}{10}
+      \field{year}{1975}
+      \field{pages}{9\bibrangedash 55}
+      \range{pages}{47}
+    \endentry
+    \entry{slater1997framework}{article}{}
+      \name{author}{2}{}{%
+        {{hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2bfe9bed806383351d25167c03c3d7f3}{%
+           family={Wilbur},
+           familyi={W\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{e285db7904938054ad88501832ca5553}
+      \strng{fullhash}{e285db7904938054ad88501832ca5553}
+      \strng{bibnamehash}{e285db7904938054ad88501832ca5553}
+      \strng{authorbibnamehash}{e285db7904938054ad88501832ca5553}
+      \strng{authornamehash}{e285db7904938054ad88501832ca5553}
+      \strng{authorfullhash}{e285db7904938054ad88501832ca5553}
+      \field{labelalpha}{SW97}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators \& Virtual Environments}
+      \field{number}{6}
+      \field{title}{A framework for immersive virtual environments (FIVE): Speculations on the role of presence in virtual environments}
+      \field{volume}{6}
+      \field{year}{1997}
+      \field{pages}{603\bibrangedash 616}
+      \range{pages}{14}
+    \endentry
+    \entry{thompson2004does}{article}{}
+      \name{author}{6}{}{%
+        {{hash=daae45e09731d5649d5414a664e2dfb3}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima B},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6a392d115a7929a4737091164d45a71e}{%
+           family={Willemsen},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1a19929319b220b44be281dcd1daa6ba}{%
+           family={Gooch},
+           familyi={G\bibinitperiod},
+           given={Amy\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=595193aa0858502a853f53306290452b}{%
+           family={Creem-Regehr},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Sarah\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2bd39d08e105020e9080fca39e875bc8}{%
+           family={Loomis},
+           familyi={L\bibinitperiod},
+           given={Jack\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f648b9e4ed6ec02b7f18a604eb373284}{%
+           family={Beall},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{4097e0b6c7ed9c327a5b9a6358693057}
+      \strng{fullhash}{527190b4da8c3e1bec7495bf69d35dc3}
+      \strng{bibnamehash}{4097e0b6c7ed9c327a5b9a6358693057}
+      \strng{authorbibnamehash}{4097e0b6c7ed9c327a5b9a6358693057}
+      \strng{authornamehash}{4097e0b6c7ed9c327a5b9a6358693057}
+      \strng{authorfullhash}{527190b4da8c3e1bec7495bf69d35dc3}
+      \field{labelalpha}{Tho+04}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators \& Virtual Environments}
+      \field{number}{5}
+      \field{title}{Does the quality of the computer graphics matter when judging distances in visually immersive environments?}
+      \field{volume}{13}
+      \field{year}{2004}
+      \field{pages}{560\bibrangedash 571}
+      \range{pages}{12}
+    \endentry
+    \entry{toet2007effects}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2851a14702e2a6ec67858d36538100e9}{%
+           family={Toet},
+           familyi={T\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dfaa9f9dc600f73f6fd938a3b54eae06}{%
+           family={Jansen},
+           familyi={J\bibinitperiod},
+           given={Sander\bibnamedelima EM},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3eab4884139ae296c6982fbe38a71a96}{%
+           family={Delleman},
+           familyi={D\bibinitperiod},
+           given={Nico\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{0ab129a0c25680b309c34389365e25cb}
+      \strng{fullhash}{0ab129a0c25680b309c34389365e25cb}
+      \strng{bibnamehash}{0ab129a0c25680b309c34389365e25cb}
+      \strng{authorbibnamehash}{0ab129a0c25680b309c34389365e25cb}
+      \strng{authornamehash}{0ab129a0c25680b309c34389365e25cb}
+      \strng{authorfullhash}{0ab129a0c25680b309c34389365e25cb}
+      \field{labelalpha}{TJD07}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perceptual and motor skills}
+      \field{number}{3\_suppl}
+      \field{title}{Effects of field-of-view restrictions on speed and accuracy of manoeuvring}
+      \field{volume}{105}
+      \field{year}{2007}
+      \field{pages}{1245\bibrangedash 1256}
+      \range{pages}{12}
+    \endentry
+    \entry{vaghi1999coping}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=dbdd8c47aa8ec0f1f4d597013ecbafed}{%
+           family={Vaghi},
+           familyi={V\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+        {{hash=553a2dfdd297f2a8eab78673cd89d8ed}{%
+           family={Greenhalgh},
+           familyi={G\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=06031840851b586f6adedee530bbfcdd}{%
+           family={Benford},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f38a607a563dc34ee940aa0b495801d5}
+      \strng{fullhash}{f38a607a563dc34ee940aa0b495801d5}
+      \strng{bibnamehash}{f38a607a563dc34ee940aa0b495801d5}
+      \strng{authorbibnamehash}{f38a607a563dc34ee940aa0b495801d5}
+      \strng{authornamehash}{f38a607a563dc34ee940aa0b495801d5}
+      \strng{authorfullhash}{f38a607a563dc34ee940aa0b495801d5}
+      \field{labelalpha}{VGB99}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the ACM symposium on Virtual reality software and technology}
+      \field{title}{Coping with inconsistency due to network delays in collaborative virtual environments}
+      \field{year}{1999}
+      \field{pages}{42\bibrangedash 49}
+      \range{pages}{8}
+    \endentry
+    \entry{wolfe2015communications}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cd78874862659ad93e0bc5e9bec22618}{%
+           family={Wolfe},
+           familyi={W\bibinitperiod},
+           given={Christopher\bibnamedelima R},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c0e5466bf91eb8bdf2a5229f96988576}{%
+           family={Cedillos},
+           familyi={C\bibinitperiod},
+           given={Elizabeth\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5f2eec3fee224175e0ad5a2095737105}
+      \strng{fullhash}{5f2eec3fee224175e0ad5a2095737105}
+      \strng{bibnamehash}{5f2eec3fee224175e0ad5a2095737105}
+      \strng{authorbibnamehash}{5f2eec3fee224175e0ad5a2095737105}
+      \strng{authornamehash}{5f2eec3fee224175e0ad5a2095737105}
+      \strng{authorfullhash}{5f2eec3fee224175e0ad5a2095737105}
+      \field{labelalpha}{WC15}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E-Communications Platforms and E-Learning}
+      \field{year}{2015}
+    \endentry
+    \entry{wegdistance}{article}{}
+      \name{author}{1}{}{%
+        {{hash=da9cc3e78d7c58d477d3eacbc894ea29}{%
+           family={Weg},
+           familyi={W\bibinitperiod},
+           given={Seffenter},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{da9cc3e78d7c58d477d3eacbc894ea29}
+      \strng{fullhash}{da9cc3e78d7c58d477d3eacbc894ea29}
+      \strng{bibnamehash}{da9cc3e78d7c58d477d3eacbc894ea29}
+      \strng{authorbibnamehash}{da9cc3e78d7c58d477d3eacbc894ea29}
+      \strng{authornamehash}{da9cc3e78d7c58d477d3eacbc894ea29}
+      \strng{authorfullhash}{da9cc3e78d7c58d477d3eacbc894ea29}
+      \field{labelalpha}{Weg}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Distance Estimation in a VR Application: Interindividual Differences and Intraindividual Stabilities from a Psychological Point of View}
+    \endentry
+    \entry{willemsen2002perceived}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=6a392d115a7929a4737091164d45a71e}{%
+           family={Willemsen},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1a19929319b220b44be281dcd1daa6ba}{%
+           family={Gooch},
+           familyi={G\bibinitperiod},
+           given={Amy\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6beb58d57450a8b7171fe43bef3a06c3}
+      \strng{fullhash}{6beb58d57450a8b7171fe43bef3a06c3}
+      \strng{bibnamehash}{6beb58d57450a8b7171fe43bef3a06c3}
+      \strng{authorbibnamehash}{6beb58d57450a8b7171fe43bef3a06c3}
+      \strng{authornamehash}{6beb58d57450a8b7171fe43bef3a06c3}
+      \strng{authorfullhash}{6beb58d57450a8b7171fe43bef3a06c3}
+      \field{labelalpha}{WG02}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings IEEE Virtual Reality 2002}
+      \field{title}{Perceived egocentric distances in real, image-based, and traditional virtual environments}
+      \field{year}{2002}
+      \field{pages}{275\bibrangedash 276}
+      \range{pages}{2}
+    \endentry
+    \entry{waller1998transfer}{article}{}
+      \name{author}{3}{}{%
+        {{hash=db2c4e95aefe34cc7edbea93cbbadca5}{%
+           family={Waller},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1d1db5dbedaa6b811fc62b6099f4992d}{%
+           family={Hunt},
+           familyi={H\bibinitperiod},
+           given={Earl},
+           giveni={E\bibinitperiod}}}%
+        {{hash=59e3ffce56c84442b1cf00b1d81bf901}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{578ebb73b73fd6d7851b30e9afe5f73e}
+      \strng{fullhash}{578ebb73b73fd6d7851b30e9afe5f73e}
+      \strng{bibnamehash}{578ebb73b73fd6d7851b30e9afe5f73e}
+      \strng{authorbibnamehash}{578ebb73b73fd6d7851b30e9afe5f73e}
+      \strng{authornamehash}{578ebb73b73fd6d7851b30e9afe5f73e}
+      \strng{authorfullhash}{578ebb73b73fd6d7851b30e9afe5f73e}
+      \field{labelalpha}{WHK98}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence}
+      \field{number}{2}
+      \field{title}{The transfer of spatial knowledge in virtual environment training}
+      \field{volume}{7}
+      \field{year}{1998}
+      \field{pages}{129\bibrangedash 143}
+      \range{pages}{15}
+    \endentry
+    \entry{whyte2007visual}{article}{}
+      \name{author}{4}{}{%
+        {{hash=67f50b6f0925cd64e26ddc7bb18b590c}{%
+           family={Whyte},
+           familyi={W\bibinitperiod},
+           given={Jennifer\bibnamedelima K},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=72a54ba38d1d637f098ff6cbf26a6bbb}{%
+           family={Ewenstein},
+           familyi={E\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+        {{hash=35d90c7ffd61509e09babdc910eae200}{%
+           family={Hales},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=756465807cc7d0cd736794eecb036490}{%
+           family={Tidd},
+           familyi={T\bibinitperiod},
+           given={Joe},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{22b067c6a8b0228b797e498be8760ad1}
+      \strng{fullhash}{3e68f708b312459befcbb191f47264b3}
+      \strng{bibnamehash}{22b067c6a8b0228b797e498be8760ad1}
+      \strng{authorbibnamehash}{22b067c6a8b0228b797e498be8760ad1}
+      \strng{authornamehash}{22b067c6a8b0228b797e498be8760ad1}
+      \strng{authorfullhash}{3e68f708b312459befcbb191f47264b3}
+      \field{labelalpha}{Why+07}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Building Research \& Information}
+      \field{number}{1}
+      \field{title}{Visual practices and the objects used in design}
+      \field{volume}{35}
+      \field{year}{2007}
+      \field{pages}{18\bibrangedash 27}
+      \range{pages}{10}
+    \endentry
+    \entry{willemsen2004effects}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6a392d115a7929a4737091164d45a71e}{%
+           family={Willemsen},
+           familyi={W\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b44615a6d4a8d8daf0cc06f9c3b0dda0}{%
+           family={Colton},
+           familyi={C\bibinitperiod},
+           given={Mark\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=595193aa0858502a853f53306290452b}{%
+           family={Creem-Regehr},
+           familyi={C\bibinithyphendelim R\bibinitperiod},
+           given={Sarah\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=daae45e09731d5649d5414a664e2dfb3}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={William\bibnamedelima B},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{fa915f82d3d993c4a544848d8687232c}
+      \strng{fullhash}{959ab729d663482a109e87ca0865f16f}
+      \strng{bibnamehash}{fa915f82d3d993c4a544848d8687232c}
+      \strng{authorbibnamehash}{fa915f82d3d993c4a544848d8687232c}
+      \strng{authornamehash}{fa915f82d3d993c4a544848d8687232c}
+      \strng{authorfullhash}{959ab729d663482a109e87ca0865f16f}
+      \field{labelalpha}{Wil+04}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 1st Symposium on Applied perception in graphics and visualization}
+      \field{title}{The effects of head-mounted display mechanics on distance judgments in virtual environments}
+      \field{year}{2004}
+      \field{pages}{35\bibrangedash 38}
+      \range{pages}{4}
+    \endentry
+    \entry{witmer1998measuring}{article}{}
+      \name{author}{2}{}{%
+        {{hash=596d11b8d6158bfa301c4e0769a2f91c}{%
+           family={Witmer},
+           familyi={W\bibinitperiod},
+           given={Bob\bibnamedelima G},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c3626207d1d62280942896d8c33042ae}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{453d797a900ddce17c8529acc846ee9a}
+      \strng{fullhash}{453d797a900ddce17c8529acc846ee9a}
+      \strng{bibnamehash}{453d797a900ddce17c8529acc846ee9a}
+      \strng{authorbibnamehash}{453d797a900ddce17c8529acc846ee9a}
+      \strng{authornamehash}{453d797a900ddce17c8529acc846ee9a}
+      \strng{authorfullhash}{453d797a900ddce17c8529acc846ee9a}
+      \field{labelalpha}{WS98}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence}
+      \field{number}{3}
+      \field{title}{Measuring presence in virtual environments: A presence questionnaire}
+      \field{volume}{7}
+      \field{year}{1998}
+      \field{pages}{225\bibrangedash 240}
+      \range{pages}{16}
+    \endentry
+    \entry{youngblut2003experience}{report}{}
+      \name{author}{1}{}{%
+        {{hash=aa99d6b8e85869e049091cf8d2eb7b1a}{%
+           family={Youngblut},
+           familyi={Y\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {INSTITUTE FOR DEFENSE ANALYSES ALEXANDRIA VA}%
+      }
+      \strng{namehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{fullhash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{bibnamehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{authorbibnamehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{authornamehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{authorfullhash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \field{labelalpha}{You03}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experience of presence in virtual environments}
+      \field{type}{techreport}
+      \field{year}{2003}
+    \endentry
+    \entry{ziemer2006making}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e3a379d5391c7e1481150b42d658b629}{%
+           family={Ziemer},
+           familyi={Z\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=eb38a110b51c05b8c58148ea55149c74}{%
+           family={Plumert},
+           familyi={P\bibinitperiod},
+           given={Jodie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=34f1c1a74bc8712083940b7b5385c3b8}{%
+           family={Cremer},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e3c004649fc39ca7eb5ae4cf50b5d049}{%
+           family={Kearney},
+           familyi={K\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ac067951580e144dd9ead688babf557f}
+      \strng{fullhash}{2c8591e0637a4338899bf8b544ef7661}
+      \strng{bibnamehash}{ac067951580e144dd9ead688babf557f}
+      \strng{authorbibnamehash}{ac067951580e144dd9ead688babf557f}
+      \strng{authornamehash}{ac067951580e144dd9ead688babf557f}
+      \strng{authorfullhash}{2c8591e0637a4338899bf8b544ef7661}
+      \field{labelalpha}{Zie+06}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 3rd symposium on Applied perception in graphics and visualization}
+      \field{title}{Making distance judgments in real and virtual environments: does order make a difference?}
+      \field{year}{2006}
+      \field{pages}{153\bibrangedash 153}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
